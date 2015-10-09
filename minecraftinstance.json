@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2015-10-09T06:16:15.7502352Z",
+  "lastPlayed": "2015-10-09T09:20:39.0355421Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -26,890 +26,899 @@
   "fileID": 0,
   "customAuthor": "CaptainClaquette",
   "modpackOverrides": null,
-  "guid": "ce774241-0f8b-4887-8be9-e5c03e86eb8c",
+  "guid": "a97f1399-6083-489e-ac8b-9d12715ca784",
   "gameTypeID": 432,
-  "installPath": "C:\\Users\\CaptainClaquette\\Documents\\Curse\\Minecraft\\Instances\\Questcraft\\",
+  "installPath": "E:\\Documents\\Curse\\Minecraft\\Instances\\Questcraft\\",
   "name": "Questcraft",
   "cachedScans": [
     {
       "folderName": "OpenPeripheralIntegration-1.7.10-0.3.jar",
       "fingerprint": 1199482742,
-      "fileDateHash": 1863888968,
+      "fileDateHash": 4043413698,
       "sectionID": 6,
       "individualFingerprints": [
         1199482742
       ],
       "status": 1,
-      "timestamp": "2015-10-05T15:19:19.3002979Z",
-      "lastWriteTimeUtc": "2015-10-05T15:15:44.2699989Z",
-      "queryTimestamp": "2015-10-08T16:21:10.3317258Z",
+      "timestamp": "2015-10-09T07:10:07.7138908Z",
+      "lastWriteTimeUtc": "2015-10-09T07:02:47.2676987Z",
+      "queryTimestamp": "2015-10-09T07:10:08.870957Z",
       "fileCount": 1,
       "fileSize": 250607
     },
     {
       "folderName": "Waila-1.5.10_1.7.10.jar",
       "fingerprint": 1414103353,
-      "fileDateHash": 2474853326,
+      "fileDateHash": 4212859927,
       "sectionID": 6,
       "individualFingerprints": [
         1414103353
       ],
       "status": 1,
-      "timestamp": "2015-10-05T15:19:19.5443119Z",
-      "lastWriteTimeUtc": "2015-10-05T15:15:44.4760107Z",
-      "queryTimestamp": "2015-10-08T16:21:10.3317258Z",
+      "timestamp": "2015-10-09T08:10:06.0977066Z",
+      "lastWriteTimeUtc": "2015-10-09T08:10:02.6645102Z",
+      "queryTimestamp": "2015-10-09T08:10:06.5627332Z",
       "fileCount": 1,
       "fileSize": 544821
     },
     {
       "folderName": "TiCTooltips-mc1.7.10-1.2.5.jar",
       "fingerprint": 1799286902,
-      "fileDateHash": 1101394219,
+      "fileDateHash": 2832783265,
       "sectionID": 6,
       "individualFingerprints": [
         1799286902
       ],
       "status": 1,
-      "timestamp": "2015-10-05T15:19:19.5373115Z",
-      "lastWriteTimeUtc": "2015-10-05T15:15:44.4730105Z",
-      "queryTimestamp": "2015-10-08T16:21:10.3317258Z",
+      "timestamp": "2015-10-09T07:10:08.0439097Z",
+      "lastWriteTimeUtc": "2015-10-09T07:02:47.6077182Z",
+      "queryTimestamp": "2015-10-09T07:10:08.870957Z",
       "fileCount": 1,
       "fileSize": 52002
     },
     {
       "folderName": "ThermalDynamics-[1.7.10]1.1.0-161.jar",
       "fingerprint": 3037933972,
-      "fileDateHash": 1153383640,
+      "fileDateHash": 673856273,
       "sectionID": 6,
       "individualFingerprints": [
         3037933972
       ],
       "status": 1,
-      "timestamp": "2015-10-05T15:19:19.5133101Z",
-      "lastWriteTimeUtc": "2015-10-05T15:15:44.4520093Z",
-      "queryTimestamp": "2015-10-08T16:21:10.3317258Z",
+      "timestamp": "2015-10-09T07:10:08.0109078Z",
+      "lastWriteTimeUtc": "2015-10-09T07:02:47.5727162Z",
+      "queryTimestamp": "2015-10-09T07:10:08.870957Z",
       "fileCount": 1,
       "fileSize": 462208
     },
     {
       "folderName": "Chisel2-2.5.1.44.jar",
       "fingerprint": 2439658187,
-      "fileDateHash": 4241730953,
+      "fileDateHash": 3773386416,
       "sectionID": 6,
       "individualFingerprints": [
         2439658187
       ],
       "status": 1,
-      "timestamp": "2015-10-05T15:19:19.1002865Z",
-      "lastWriteTimeUtc": "2015-10-05T15:15:44.1409915Z",
-      "queryTimestamp": "2015-10-08T16:21:10.3317258Z",
+      "timestamp": "2015-10-09T07:10:07.3838719Z",
+      "lastWriteTimeUtc": "2015-10-09T07:02:47.0196845Z",
+      "queryTimestamp": "2015-10-09T07:10:08.870957Z",
       "fileCount": 1,
       "fileSize": 6176312
     },
     {
       "folderName": "OpenPeripheralCore-1.7.10-1.2.jar",
       "fingerprint": 2873603815,
-      "fileDateHash": 1758774055,
+      "fileDateHash": 2303031985,
       "sectionID": 6,
       "individualFingerprints": [
         2873603815
       ],
       "status": 1,
-      "timestamp": "2015-10-05T15:19:19.2982978Z",
-      "lastWriteTimeUtc": "2015-10-05T15:15:44.2679988Z",
-      "queryTimestamp": "2015-10-08T16:21:10.3317258Z",
+      "timestamp": "2015-10-09T07:10:07.7108906Z",
+      "lastWriteTimeUtc": "2015-10-09T07:02:47.2646985Z",
+      "queryTimestamp": "2015-10-09T07:10:08.870957Z",
       "fileCount": 1,
       "fileSize": 384220
     },
     {
+      "folderName": "PerfectSpawn-1.1.jar",
+      "fingerprint": 3541062723,
+      "fileDateHash": 4043413698,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3541062723
+      ],
+      "status": 1,
+      "timestamp": "2015-10-09T07:10:07.7158909Z",
+      "lastWriteTimeUtc": "2015-10-09T07:02:47.2676987Z",
+      "queryTimestamp": "2015-10-09T07:10:08.870957Z",
+      "fileCount": 1,
+      "fileSize": 27070
+    },
+    {
       "folderName": "Mantle-1.7.10-0.3.2.jar",
       "fingerprint": 1242038012,
-      "fileDateHash": 3663205846,
+      "fileDateHash": 553506304,
       "sectionID": 6,
       "individualFingerprints": [
         1242038012
       ],
       "status": 1,
-      "timestamp": "2015-10-05T15:19:19.2642959Z",
-      "lastWriteTimeUtc": "2015-10-05T15:15:44.2409972Z",
-      "queryTimestamp": "2015-10-08T16:21:10.3317258Z",
+      "timestamp": "2015-10-09T07:10:07.6538874Z",
+      "lastWriteTimeUtc": "2015-10-09T07:02:47.2046951Z",
+      "queryTimestamp": "2015-10-09T07:10:08.871957Z",
       "fileCount": 1,
       "fileSize": 196807
     },
     {
       "folderName": "BiomesOPlenty-1.7.10-2.1.0.1067-universal.jar",
       "fingerprint": 1659925933,
-      "fileDateHash": 2003890433,
+      "fileDateHash": 2440264123,
       "sectionID": 6,
       "individualFingerprints": [
         1659925933
       ],
       "status": 1,
-      "timestamp": "2015-10-05T15:19:19.0152816Z",
-      "lastWriteTimeUtc": "2015-10-05T15:15:44.0779879Z",
-      "queryTimestamp": "2015-10-08T16:21:10.3317258Z",
+      "timestamp": "2015-10-09T07:10:07.2648651Z",
+      "lastWriteTimeUtc": "2015-10-09T07:02:46.9176787Z",
+      "queryTimestamp": "2015-10-09T07:10:08.871957Z",
       "fileCount": 1,
       "fileSize": 5708678
     },
     {
       "folderName": "TMechworks-1.7.10-0.2.14.100.jar",
       "fingerprint": 801372929,
-      "fileDateHash": 2691303077,
+      "fileDateHash": 3206770128,
       "sectionID": 6,
       "individualFingerprints": [
         801372929
       ],
       "status": 1,
-      "timestamp": "2015-10-05T15:19:19.5373115Z",
-      "lastWriteTimeUtc": "2015-10-05T15:15:44.3860055Z",
-      "queryTimestamp": "2015-10-08T16:21:10.3417258Z",
+      "timestamp": "2015-10-09T07:10:08.0439097Z",
+      "lastWriteTimeUtc": "2015-10-09T07:02:47.4597097Z",
+      "queryTimestamp": "2015-10-09T07:10:08.871957Z",
       "fileCount": 1,
       "fileSize": 218626
     },
     {
       "folderName": "NotEnoughItems-1.7.10-1.0.4.107-universal.jar",
       "fingerprint": 748627937,
-      "fileDateHash": 565522773,
+      "fileDateHash": 3908714137,
       "sectionID": 6,
       "individualFingerprints": [
         748627937
       ],
       "status": 1,
-      "timestamp": "2015-10-05T15:19:19.2772966Z",
-      "lastWriteTimeUtc": "2015-10-05T15:15:44.2449975Z",
-      "queryTimestamp": "2015-10-08T16:21:10.3417258Z",
+      "timestamp": "2015-10-09T07:10:07.682889Z",
+      "lastWriteTimeUtc": "2015-10-09T07:02:47.2286965Z",
+      "queryTimestamp": "2015-10-09T07:10:08.871957Z",
       "fileCount": 1,
       "fileSize": 512898
     },
     {
-      "folderName": "Jabba-1.2.1a_1.7.10.jar",
-      "fingerprint": 1937240371,
-      "fileDateHash": 1552490772,
-      "sectionID": 6,
-      "individualFingerprints": [
-        1937240371
-      ],
-      "status": 1,
-      "timestamp": "2015-10-07T15:30:40.8986524Z",
-      "lastWriteTimeUtc": "2015-10-07T15:30:40.8826515Z",
-      "queryTimestamp": "2015-10-08T16:21:10.3417258Z",
-      "fileCount": 1,
-      "fileSize": 440712
-    },
-    {
       "folderName": "Thaumcraft-1.7.10-4.2.3.5.jar",
       "fingerprint": 3309651986,
-      "fileDateHash": 3109072617,
+      "fileDateHash": 3901509050,
       "sectionID": 6,
       "individualFingerprints": [
         3309651986
       ],
       "status": 1,
-      "timestamp": "2015-10-05T15:19:19.4463063Z",
-      "lastWriteTimeUtc": "2015-10-05T15:15:44.4370084Z",
-      "queryTimestamp": "2015-10-08T16:21:10.3417258Z",
+      "timestamp": "2015-10-09T07:10:07.9169024Z",
+      "lastWriteTimeUtc": "2015-10-09T07:02:47.5477147Z",
+      "queryTimestamp": "2015-10-09T07:10:08.871957Z",
       "fileCount": 1,
       "fileSize": 12565807
     },
     {
+      "folderName": "Jabba-1.2.1a_1.7.10.jar",
+      "fingerprint": 1937240371,
+      "fileDateHash": 1674111811,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1937240371
+      ],
+      "status": 1,
+      "timestamp": "2015-10-09T07:10:07.6408866Z",
+      "lastWriteTimeUtc": "2015-10-09T07:02:47.202695Z",
+      "queryTimestamp": "2015-10-09T07:10:08.871957Z",
+      "fileCount": 1,
+      "fileSize": 440712
+    },
+    {
       "folderName": "denseores-1.6.2.jar",
       "fingerprint": 383013585,
-      "fileDateHash": 1247941300,
+      "fileDateHash": 2625548385,
       "sectionID": 6,
       "individualFingerprints": [
         383013585
       ],
       "status": 1,
-      "timestamp": "2015-10-05T15:19:19.144289Z",
-      "lastWriteTimeUtc": "2015-10-05T15:15:44.5060124Z",
-      "queryTimestamp": "2015-10-08T16:21:10.3417258Z",
+      "timestamp": "2015-10-09T07:10:07.4408752Z",
+      "lastWriteTimeUtc": "2015-10-09T07:02:47.6617213Z",
+      "queryTimestamp": "2015-10-09T07:10:08.871957Z",
       "fileCount": 1,
       "fileSize": 60626
     },
     {
       "folderName": "CodeChickenCore-1.7.10-1.0.6.43-universal.jar",
       "fingerprint": 700370845,
-      "fileDateHash": 21926586,
+      "fileDateHash": 387410730,
       "sectionID": 6,
       "individualFingerprints": [
         700370845
       ],
       "status": 1,
-      "timestamp": "2015-10-05T15:19:19.1312883Z",
-      "lastWriteTimeUtc": "2015-10-05T15:15:44.148992Z",
-      "queryTimestamp": "2015-10-08T16:21:10.3417258Z",
+      "timestamp": "2015-10-09T07:10:07.4238742Z",
+      "lastWriteTimeUtc": "2015-10-09T07:02:47.0316852Z",
+      "queryTimestamp": "2015-10-09T07:10:08.871957Z",
       "fileCount": 1,
       "fileSize": 158865
     },
     {
       "folderName": "EnderTech-1.7.10-0.3.2.405.jar",
       "fingerprint": 3953317430,
-      "fileDateHash": 2394175778,
+      "fileDateHash": 3248873791,
       "sectionID": 6,
       "individualFingerprints": [
         3953317430
       ],
       "status": 1,
-      "timestamp": "2015-10-05T15:19:19.1662903Z",
-      "lastWriteTimeUtc": "2015-10-05T15:15:44.1829939Z",
-      "queryTimestamp": "2015-10-08T16:21:10.3417258Z",
+      "timestamp": "2015-10-09T07:10:07.4668767Z",
+      "lastWriteTimeUtc": "2015-10-09T07:02:47.0866884Z",
+      "queryTimestamp": "2015-10-09T07:10:08.871957Z",
       "fileCount": 1,
       "fileSize": 724840
     },
     {
       "folderName": "BiblioWoods[BiomesOPlenty][v1.9].jar",
       "fingerprint": 1503637749,
-      "fileDateHash": 3028959912,
+      "fileDateHash": 2902434622,
       "sectionID": 6,
       "individualFingerprints": [
         1503637749
       ],
       "status": 1,
-      "timestamp": "2015-10-05T15:19:19.0102813Z",
-      "lastWriteTimeUtc": "2015-10-05T15:15:44.0519864Z",
-      "queryTimestamp": "2015-10-08T16:21:10.3417258Z",
+      "timestamp": "2015-10-09T07:10:07.2538645Z",
+      "lastWriteTimeUtc": "2015-10-09T07:02:46.8776764Z",
+      "queryTimestamp": "2015-10-09T07:10:08.871957Z",
       "fileCount": 1,
       "fileSize": 288625
     },
     {
       "folderName": "Forbidden Magic-1.7.10-0.57.jar",
       "fingerprint": 4128588369,
-      "fileDateHash": 1974961097,
+      "fileDateHash": 284384447,
       "sectionID": 6,
       "individualFingerprints": [
         4128588369
       ],
       "status": 1,
-      "timestamp": "2015-10-05T15:19:19.2352942Z",
-      "lastWriteTimeUtc": "2015-10-05T15:15:44.2289965Z",
-      "queryTimestamp": "2015-10-08T16:21:10.3417258Z",
+      "timestamp": "2015-10-09T07:10:07.5588819Z",
+      "lastWriteTimeUtc": "2015-10-09T07:02:47.1726933Z",
+      "queryTimestamp": "2015-10-09T07:10:08.871957Z",
       "fileCount": 1,
       "fileSize": 609807
     },
     {
       "folderName": "BigReactors-0.4.3A.jar",
       "fingerprint": 3921566298,
-      "fileDateHash": 415779167,
+      "fileDateHash": 3900421485,
       "sectionID": 6,
       "individualFingerprints": [
         3921566298
       ],
       "status": 1,
-      "timestamp": "2015-10-05T15:19:19.0112814Z",
-      "lastWriteTimeUtc": "2015-10-05T15:15:44.0569867Z",
-      "queryTimestamp": "2015-10-08T16:21:10.3417258Z",
+      "timestamp": "2015-10-09T07:10:07.2598648Z",
+      "lastWriteTimeUtc": "2015-10-09T07:02:46.8846768Z",
+      "queryTimestamp": "2015-10-09T07:10:08.871957Z",
       "fileCount": 1,
       "fileSize": 771107
     },
     {
       "folderName": "IC2NuclearControl-2.2.5a-GoingForTheKill.jar",
       "fingerprint": 1024665357,
-      "fileDateHash": 2397924795,
+      "fileDateHash": 4212030881,
       "sectionID": 6,
       "individualFingerprints": [
         1024665357
       ],
       "status": 1,
-      "timestamp": "2015-10-08T16:26:32.6575913Z",
-      "lastWriteTimeUtc": "2015-10-08T15:48:03.1896742Z",
-      "queryTimestamp": "2015-10-08T16:26:33.6206447Z",
+      "timestamp": "2015-10-09T07:10:07.5918838Z",
+      "lastWriteTimeUtc": "2015-10-09T07:02:47.1916944Z",
+      "queryTimestamp": "2015-10-09T07:10:08.871957Z",
       "fileCount": 1,
       "fileSize": 1029339
     },
     {
       "folderName": "mcjtylib-1.6.0.jar",
       "fingerprint": 3996300682,
-      "fileDateHash": 3356329741,
+      "fileDateHash": 3393519946,
       "sectionID": 6,
       "individualFingerprints": [
         3996300682
       ],
       "status": 1,
-      "timestamp": "2015-10-08T18:57:14.1824222Z",
-      "lastWriteTimeUtc": "2015-10-08T16:33:13.4500407Z",
-      "queryTimestamp": "2015-10-08T18:57:15.2154813Z",
+      "timestamp": "2015-10-09T07:10:07.6548874Z",
+      "lastWriteTimeUtc": "2015-10-09T07:02:47.7767278Z",
+      "queryTimestamp": "2015-10-09T07:10:08.871957Z",
       "fileCount": 1,
       "fileSize": 167889
     },
     {
-      "folderName": "IguanaTinkerTweaks-1.7.10-2.1.5.jar",
-      "fingerprint": 3339674930,
-      "fileDateHash": 1230246765,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3339674930
-      ],
-      "status": 1,
-      "timestamp": "2015-10-05T15:19:19.2602956Z",
-      "lastWriteTimeUtc": "2015-10-05T15:15:44.2379971Z",
-      "queryTimestamp": "2015-10-08T16:21:10.3417258Z",
-      "fileCount": 1,
-      "fileSize": 421007
-    },
-    {
       "folderName": "InventoryTweaks-1.59-dev-152.jar",
       "fingerprint": 2514137931,
-      "fileDateHash": 2426455009,
+      "fileDateHash": 130128125,
       "sectionID": 6,
       "individualFingerprints": [
         2514137931
       ],
       "status": 1,
-      "timestamp": "2015-10-05T15:19:19.2622957Z",
-      "lastWriteTimeUtc": "2015-10-05T15:15:44.2399972Z",
-      "queryTimestamp": "2015-10-08T16:21:10.3417258Z",
+      "timestamp": "2015-10-09T07:10:07.6388865Z",
+      "lastWriteTimeUtc": "2015-10-09T07:02:47.1976947Z",
+      "queryTimestamp": "2015-10-09T07:10:08.871957Z",
       "fileCount": 1,
       "fileSize": 224461
     },
     {
+      "folderName": "IguanaTinkerTweaks-1.7.10-2.1.5.jar",
+      "fingerprint": 3339674930,
+      "fileDateHash": 3504248026,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3339674930
+      ],
+      "status": 1,
+      "timestamp": "2015-10-09T07:10:07.5998843Z",
+      "lastWriteTimeUtc": "2015-10-09T07:02:47.1956946Z",
+      "queryTimestamp": "2015-10-09T07:10:08.871957Z",
+      "fileCount": 1,
+      "fileSize": 421007
+    },
+    {
       "folderName": "ThaumicTinkerer-2.5-1.7.10-164.jar",
       "fingerprint": 1878928580,
-      "fileDateHash": 3168809064,
+      "fileDateHash": 2670237774,
       "sectionID": 6,
       "individualFingerprints": [
         1878928580
       ],
       "status": 1,
-      "timestamp": "2015-10-05T15:19:19.5033095Z",
-      "lastWriteTimeUtc": "2015-10-05T15:15:44.4490091Z",
-      "queryTimestamp": "2015-10-08T16:21:10.3417258Z",
+      "timestamp": "2015-10-09T07:10:07.997907Z",
+      "lastWriteTimeUtc": "2015-10-09T07:02:47.5677159Z",
+      "queryTimestamp": "2015-10-09T07:10:08.871957Z",
       "fileCount": 1,
       "fileSize": 2141043
     },
     {
-      "folderName": "CoFHCore-[1.7.10]3.0.3-303.jar",
-      "fingerprint": 576279696,
-      "fileDateHash": 931959900,
-      "sectionID": 6,
-      "individualFingerprints": [
-        576279696
-      ],
-      "status": 1,
-      "timestamp": "2015-10-05T15:19:19.1322883Z",
-      "lastWriteTimeUtc": "2015-10-05T15:15:44.1479919Z",
-      "queryTimestamp": "2015-10-08T16:21:10.3417258Z",
-      "fileCount": 1,
-      "fileSize": 1068485
-    },
-    {
       "folderName": "MobProperties-1.7.10-0.4.2.jar",
       "fingerprint": 2120564703,
-      "fileDateHash": 124491731,
+      "fileDateHash": 4050037540,
       "sectionID": 6,
       "individualFingerprints": [
         2120564703
       ],
       "status": 1,
-      "timestamp": "2015-10-06T14:51:30.0494109Z",
-      "lastWriteTimeUtc": "2015-10-06T14:51:30.0224093Z",
-      "queryTimestamp": "2015-10-08T16:21:10.3417258Z",
+      "timestamp": "2015-10-09T07:10:07.6668881Z",
+      "lastWriteTimeUtc": "2015-10-09T07:02:47.2226961Z",
+      "queryTimestamp": "2015-10-09T07:10:08.871957Z",
       "fileCount": 1,
       "fileSize": 131362
     },
     {
+      "folderName": "CoFHCore-[1.7.10]3.0.3-303.jar",
+      "fingerprint": 576279696,
+      "fileDateHash": 4056998585,
+      "sectionID": 6,
+      "individualFingerprints": [
+        576279696
+      ],
+      "status": 1,
+      "timestamp": "2015-10-09T07:10:07.4248743Z",
+      "lastWriteTimeUtc": "2015-10-09T07:02:47.0296851Z",
+      "queryTimestamp": "2015-10-09T07:10:08.871957Z",
+      "fileCount": 1,
+      "fileSize": 1068485
+    },
+    {
       "folderName": "ironchest-1.7.10-6.0.60.741-universal.jar",
       "fingerprint": 554654637,
-      "fileDateHash": 2863605998,
+      "fileDateHash": 2462610042,
       "sectionID": 6,
       "individualFingerprints": [
         554654637
       ],
       "status": 1,
-      "timestamp": "2015-10-05T15:19:19.2642959Z",
-      "lastWriteTimeUtc": "2015-10-05T15:15:44.5360141Z",
-      "queryTimestamp": "2015-10-08T16:21:10.3417258Z",
+      "timestamp": "2015-10-09T07:10:07.6398866Z",
+      "lastWriteTimeUtc": "2015-10-09T07:02:47.7597269Z",
+      "queryTimestamp": "2015-10-09T07:10:08.8729571Z",
       "fileCount": 1,
       "fileSize": 158100
     },
     {
       "folderName": "OpenBlocks-1.7.10-1.4.4.jar",
       "fingerprint": 3697416383,
-      "fileDateHash": 1614341534,
+      "fileDateHash": 1252734627,
       "sectionID": 6,
       "individualFingerprints": [
         3697416383
       ],
       "status": 1,
-      "timestamp": "2015-10-05T15:19:19.2802968Z",
-      "lastWriteTimeUtc": "2015-10-05T15:15:44.2569981Z",
-      "queryTimestamp": "2015-10-08T16:21:10.3417258Z",
+      "timestamp": "2015-10-09T07:10:07.6858892Z",
+      "lastWriteTimeUtc": "2015-10-09T07:02:47.2476976Z",
+      "queryTimestamp": "2015-10-09T07:10:08.8729571Z",
       "fileCount": 1,
       "fileSize": 2655332
     },
     {
       "folderName": "TConstruct-1.7.10-1.8.7.jar",
       "fingerprint": 1899382461,
-      "fileDateHash": 2916566643,
+      "fileDateHash": 632413068,
       "sectionID": 6,
       "individualFingerprints": [
         1899382461
       ],
       "status": 1,
-      "timestamp": "2015-10-05T15:19:19.4203048Z",
-      "lastWriteTimeUtc": "2015-10-05T15:15:44.3840054Z",
-      "queryTimestamp": "2015-10-08T16:21:10.3417258Z",
+      "timestamp": "2015-10-09T07:10:07.8809004Z",
+      "lastWriteTimeUtc": "2015-10-09T07:02:47.4577096Z",
+      "queryTimestamp": "2015-10-09T07:10:08.8729571Z",
       "fileCount": 1,
       "fileSize": 5529579
     },
     {
       "folderName": "BloodMagic-1.7.10-1.3.3-13.jar",
       "fingerprint": 738194297,
-      "fileDateHash": 3787472533,
+      "fileDateHash": 3222436528,
       "sectionID": 6,
       "individualFingerprints": [
         738194297
       ],
       "status": 1,
-      "timestamp": "2015-10-05T15:19:19.0412831Z",
-      "lastWriteTimeUtc": "2015-10-05T15:15:44.1129899Z",
-      "queryTimestamp": "2015-10-08T16:21:10.3417258Z",
+      "timestamp": "2015-10-09T07:10:07.3058675Z",
+      "lastWriteTimeUtc": "2015-10-09T07:02:46.9736819Z",
+      "queryTimestamp": "2015-10-09T07:10:08.8729571Z",
       "fileCount": 1,
       "fileSize": 9525878
     },
     {
       "folderName": "BiblioCraft[v1.11.2][MC1.7.10].jar",
       "fingerprint": 415926958,
-      "fileDateHash": 1148695114,
+      "fileDateHash": 3147885535,
       "sectionID": 6,
       "individualFingerprints": [
         415926958
       ],
       "status": 1,
-      "timestamp": "2015-10-05T15:19:18.9842798Z",
-      "lastWriteTimeUtc": "2015-10-05T15:15:44.0499863Z",
-      "queryTimestamp": "2015-10-08T16:21:10.3417258Z",
+      "timestamp": "2015-10-09T07:10:07.2118621Z",
+      "lastWriteTimeUtc": "2015-10-09T07:02:46.8736762Z",
+      "queryTimestamp": "2015-10-09T07:10:08.8729571Z",
       "fileCount": 1,
       "fileSize": 5425175
     },
     {
       "folderName": "EnderCompass-1.7.10-1.1.jar",
       "fingerprint": 3467780120,
-      "fileDateHash": 3012542288,
+      "fileDateHash": 3955863722,
       "sectionID": 6,
       "individualFingerprints": [
         3467780120
       ],
       "status": 1,
-      "timestamp": "2015-10-05T15:19:19.144289Z",
-      "lastWriteTimeUtc": "2015-10-05T15:15:44.1579925Z",
-      "queryTimestamp": "2015-10-08T16:21:10.3417258Z",
+      "timestamp": "2015-10-09T07:10:07.4408752Z",
+      "lastWriteTimeUtc": "2015-10-09T07:02:47.045686Z",
+      "queryTimestamp": "2015-10-09T07:10:08.8729571Z",
       "fileCount": 1,
       "fileSize": 101038
     },
     {
       "folderName": "ExtraTiC-1.7.10-1.4.5.jar",
       "fingerprint": 1346558739,
-      "fileDateHash": 3841974192,
+      "fileDateHash": 1376077162,
       "sectionID": 6,
       "individualFingerprints": [
         1346558739
       ],
       "status": 1,
-      "timestamp": "2015-10-05T15:19:19.1712905Z",
-      "lastWriteTimeUtc": "2015-10-05T15:15:44.2239963Z",
-      "queryTimestamp": "2015-10-08T16:21:10.3417258Z",
+      "timestamp": "2015-10-09T07:10:07.4748771Z",
+      "lastWriteTimeUtc": "2015-10-09T07:02:47.1666929Z",
+      "queryTimestamp": "2015-10-09T07:10:08.8729571Z",
       "fileCount": 1,
       "fileSize": 11151826
     },
     {
       "folderName": "AOBD-2.8.4.jar",
       "fingerprint": 1479275208,
-      "fileDateHash": 4161992163,
+      "fileDateHash": 1841563018,
       "sectionID": 6,
       "individualFingerprints": [
         1479275208
       ],
       "status": 1,
-      "timestamp": "2015-10-05T15:15:44.0849883Z",
-      "lastWriteTimeUtc": "2015-10-05T15:15:44.0239848Z",
-      "queryTimestamp": "2015-10-08T16:21:10.3417258Z",
+      "timestamp": "2015-10-09T07:02:46.8436745Z",
+      "lastWriteTimeUtc": "2015-10-09T07:02:46.8296737Z",
+      "queryTimestamp": "2015-10-09T07:02:47.2826996Z",
       "fileCount": 1,
       "fileSize": 169140
     },
     {
       "folderName": "iChunUtil-4.2.2.jar",
       "fingerprint": 1703258833,
-      "fileDateHash": 3171704957,
+      "fileDateHash": 1610896815,
       "sectionID": 6,
       "individualFingerprints": [
         1703258833
       ],
       "status": 1,
-      "timestamp": "2015-10-05T15:19:19.2592956Z",
-      "lastWriteTimeUtc": "2015-10-05T15:15:44.5350141Z",
-      "queryTimestamp": "2015-10-08T16:21:10.3417258Z",
+      "timestamp": "2015-10-09T07:10:07.5988842Z",
+      "lastWriteTimeUtc": "2015-10-09T07:02:47.709724Z",
+      "queryTimestamp": "2015-10-09T07:10:08.8729571Z",
       "fileCount": 1,
       "fileSize": 220214
     },
     {
       "folderName": "extrautilities-1.2.11.jar",
       "fingerprint": 894195031,
-      "fileDateHash": 106188012,
+      "fileDateHash": 1194775828,
       "sectionID": 6,
       "individualFingerprints": [
         894195031
       ],
       "status": 1,
-      "timestamp": "2015-10-05T15:19:19.2262937Z",
-      "lastWriteTimeUtc": "2015-10-05T15:15:44.517013Z",
-      "queryTimestamp": "2015-10-08T16:21:10.3417258Z",
+      "timestamp": "2015-10-09T07:10:07.5448811Z",
+      "lastWriteTimeUtc": "2015-10-09T07:02:47.6787222Z",
+      "queryTimestamp": "2015-10-09T07:10:08.8729571Z",
       "fileCount": 1,
       "fileSize": 2110837
     },
     {
       "folderName": "PortalGunSounds.pak",
       "fingerprint": 644614172,
-      "fileDateHash": 2917881385,
+      "fileDateHash": 2222415430,
       "sectionID": 6,
       "individualFingerprints": [
         644614172
       ],
       "status": 1,
-      "timestamp": "2015-10-05T15:19:19.3042982Z",
-      "lastWriteTimeUtc": "2015-10-05T15:15:44.324002Z",
-      "queryTimestamp": "2015-10-08T16:21:10.3417258Z",
+      "timestamp": "2015-10-09T07:10:07.7198911Z",
+      "lastWriteTimeUtc": "2015-10-09T07:02:47.3587039Z",
+      "queryTimestamp": "2015-10-09T07:10:08.8729571Z",
       "fileCount": 1,
       "fileSize": 14885449
     },
     {
       "folderName": "industrialcraft-2-2.2.760-experimental.jar",
       "fingerprint": 1875226602,
-      "fileDateHash": 2767467886,
+      "fileDateHash": 950650086,
       "sectionID": 6,
       "individualFingerprints": [
         1875226602
       ],
       "status": 1,
-      "timestamp": "2015-10-08T16:27:06.0923602Z",
-      "lastWriteTimeUtc": "2015-10-08T15:48:03.2446774Z",
-      "queryTimestamp": "2015-10-08T16:27:06.9924117Z",
+      "timestamp": "2015-10-09T07:10:07.6028845Z",
+      "lastWriteTimeUtc": "2015-10-09T07:02:47.7577267Z",
+      "queryTimestamp": "2015-10-09T07:10:08.8729571Z",
       "fileCount": 1,
       "fileSize": 5521657
     },
     {
       "folderName": "Railcraft_1.7.10-9.7.0.0.jar",
       "fingerprint": 785695276,
-      "fileDateHash": 1348157153,
+      "fileDateHash": 327296766,
       "sectionID": 6,
       "individualFingerprints": [
         785695276
       ],
       "status": 1,
-      "timestamp": "2015-10-05T15:19:19.3743022Z",
-      "lastWriteTimeUtc": "2015-10-05T15:15:44.3440031Z",
-      "queryTimestamp": "2015-10-08T16:21:10.3417258Z",
+      "timestamp": "2015-10-09T07:10:07.8178968Z",
+      "lastWriteTimeUtc": "2015-10-09T07:02:47.3917058Z",
+      "queryTimestamp": "2015-10-09T07:10:08.8729571Z",
       "fileCount": 1,
       "fileSize": 3679674
     },
     {
       "folderName": "rftools-3.42.jar",
       "fingerprint": 800814502,
-      "fileDateHash": 2230795999,
+      "fileDateHash": 1723150521,
       "sectionID": 6,
       "individualFingerprints": [
         800814502
       ],
       "status": 1,
-      "timestamp": "2015-10-08T18:57:14.1904227Z",
-      "lastWriteTimeUtc": "2015-10-08T16:33:16.9611857Z",
-      "queryTimestamp": "2015-10-08T18:57:15.2184815Z",
+      "timestamp": "2015-10-09T07:10:07.8438982Z",
+      "lastWriteTimeUtc": "2015-10-09T07:02:47.8197303Z",
+      "queryTimestamp": "2015-10-09T07:10:08.8729571Z",
       "fileCount": 1,
       "fileSize": 3322015
     },
     {
       "folderName": "HQM-The Journey (4.2.4).jar",
       "fingerprint": 2109040048,
-      "fileDateHash": 3495666764,
+      "fileDateHash": 1745509019,
       "sectionID": 6,
       "individualFingerprints": [
         2109040048
       ],
       "status": 1,
-      "timestamp": "2015-10-05T15:19:19.2542953Z",
-      "lastWriteTimeUtc": "2015-10-05T15:15:44.2349969Z",
-      "queryTimestamp": "2015-10-08T16:21:10.3417258Z",
+      "timestamp": "2015-10-09T07:10:07.5838834Z",
+      "lastWriteTimeUtc": "2015-10-09T07:02:47.1826939Z",
+      "queryTimestamp": "2015-10-09T07:10:08.8729571Z",
       "fileCount": 1,
       "fileSize": 1283158
     },
     {
       "folderName": "EnderZoo-1.7.10-1.0.15.32.jar",
       "fingerprint": 2452208776,
-      "fileDateHash": 3408974443,
+      "fileDateHash": 1233620224,
       "sectionID": 6,
       "individualFingerprints": [
         2452208776
       ],
       "status": 1,
-      "timestamp": "2015-10-08T16:26:32.6575913Z",
-      "lastWriteTimeUtc": "2015-10-05T15:15:44.1859941Z",
-      "queryTimestamp": "2015-10-08T16:26:33.6246449Z",
+      "timestamp": "2015-10-09T07:10:07.471877Z",
+      "lastWriteTimeUtc": "2015-10-09T07:02:47.0896885Z",
+      "queryTimestamp": "2015-10-09T07:10:08.8729571Z",
       "fileCount": 1,
       "fileSize": 351928
     },
     {
       "folderName": "ThermalFoundation-[1.7.10]1.2.0-102.jar",
       "fingerprint": 236810751,
-      "fileDateHash": 1940347939,
+      "fileDateHash": 1230900084,
       "sectionID": 6,
       "individualFingerprints": [
         236810751
       ],
       "status": 1,
-      "timestamp": "2015-10-05T15:19:19.5273109Z",
-      "lastWriteTimeUtc": "2015-10-05T15:15:44.4720104Z",
-      "queryTimestamp": "2015-10-08T16:21:10.3417258Z",
+      "timestamp": "2015-10-09T07:10:08.0299089Z",
+      "lastWriteTimeUtc": "2015-10-09T07:02:47.6057181Z",
+      "queryTimestamp": "2015-10-09T07:10:08.8729571Z",
       "fileCount": 1,
       "fileSize": 2180152
     },
     {
       "folderName": "forestry_1.7.10-3.6.10.1.jar",
       "fingerprint": 1627808241,
-      "fileDateHash": 1354204793,
+      "fileDateHash": 1813003620,
       "sectionID": 6,
       "individualFingerprints": [
         1627808241
       ],
       "status": 1,
-      "timestamp": "2015-10-05T15:19:19.2382944Z",
-      "lastWriteTimeUtc": "2015-10-05T15:15:44.5330139Z",
-      "queryTimestamp": "2015-10-08T16:21:10.3417258Z",
+      "timestamp": "2015-10-09T07:10:07.5628822Z",
+      "lastWriteTimeUtc": "2015-10-09T07:02:47.7077239Z",
+      "queryTimestamp": "2015-10-09T07:10:08.8729571Z",
       "fileCount": 1,
       "fileSize": 3165367
     },
     {
       "folderName": "OpenPeripheralAddons-1.7.10-0.4.jar",
       "fingerprint": 1004814420,
-      "fileDateHash": 787588456,
+      "fileDateHash": 712088063,
       "sectionID": 6,
       "individualFingerprints": [
         1004814420
       ],
       "status": 1,
-      "timestamp": "2015-10-05T15:19:19.2962977Z",
-      "lastWriteTimeUtc": "2015-10-05T15:15:44.2649986Z",
-      "queryTimestamp": "2015-10-08T16:21:10.3417258Z",
+      "timestamp": "2015-10-09T07:10:07.7088905Z",
+      "lastWriteTimeUtc": "2015-10-09T07:02:47.2606983Z",
+      "queryTimestamp": "2015-10-09T07:10:08.8729571Z",
       "fileCount": 1,
       "fileSize": 400146
     },
     {
       "folderName": "ThermalExpansion-[1.7.10]4.0.3B1-218.jar",
       "fingerprint": 1884227159,
-      "fileDateHash": 3620563969,
+      "fileDateHash": 712776152,
       "sectionID": 6,
       "individualFingerprints": [
         1884227159
       ],
       "status": 1,
-      "timestamp": "2015-10-05T15:19:19.5163103Z",
-      "lastWriteTimeUtc": "2015-10-05T15:15:44.4630099Z",
-      "queryTimestamp": "2015-10-08T16:21:10.3417258Z",
+      "timestamp": "2015-10-09T07:10:08.013908Z",
+      "lastWriteTimeUtc": "2015-10-09T07:02:47.5907172Z",
+      "queryTimestamp": "2015-10-09T07:10:08.8729571Z",
       "fileCount": 1,
       "fileSize": 2384406
     },
     {
       "folderName": "journeymap-1.7.10-5.1.0-unlimited.jar",
       "fingerprint": 2022525997,
-      "fileDateHash": 2402279625,
+      "fileDateHash": 2599092308,
       "sectionID": 6,
       "individualFingerprints": [
         2022525997
       ],
       "status": 1,
-      "timestamp": "2015-10-08T16:21:09.1817242Z",
-      "lastWriteTimeUtc": "2015-10-07T15:30:40.908653Z",
-      "queryTimestamp": "2015-10-08T16:21:10.3417258Z",
+      "timestamp": "2015-10-09T07:10:07.6438868Z",
+      "lastWriteTimeUtc": "2015-10-09T07:02:47.7747277Z",
+      "queryTimestamp": "2015-10-09T07:10:08.8739572Z",
       "fileCount": 1,
       "fileSize": 1542602
     },
     {
       "folderName": "RedstoneArsenal-[1.7.10]1.1.1-89.jar",
       "fingerprint": 1574858947,
-      "fileDateHash": 4209392798,
+      "fileDateHash": 911464814,
       "sectionID": 6,
       "individualFingerprints": [
         1574858947
       ],
       "status": 1,
-      "timestamp": "2015-10-05T15:19:19.3913031Z",
-      "lastWriteTimeUtc": "2015-10-05T15:15:44.3460032Z",
-      "queryTimestamp": "2015-10-08T16:21:10.3417258Z",
+      "timestamp": "2015-10-09T07:10:07.8418981Z",
+      "lastWriteTimeUtc": "2015-10-09T07:02:47.394706Z",
+      "queryTimestamp": "2015-10-09T07:10:08.8739572Z",
       "fileCount": 1,
       "fileSize": 318196
     },
     {
       "folderName": "OpenModsLib-1.7.10-0.8.jar",
       "fingerprint": 2000755755,
-      "fileDateHash": 3594785211,
+      "fileDateHash": 691741583,
       "sectionID": 6,
       "individualFingerprints": [
         2000755755
       ],
       "status": 1,
-      "timestamp": "2015-10-05T15:19:19.2922975Z",
-      "lastWriteTimeUtc": "2015-10-05T15:15:44.2629985Z",
-      "queryTimestamp": "2015-10-08T16:21:10.3417258Z",
+      "timestamp": "2015-10-09T07:10:07.7028902Z",
+      "lastWriteTimeUtc": "2015-10-09T07:02:47.2566981Z",
+      "queryTimestamp": "2015-10-09T07:10:08.8739572Z",
       "fileCount": 1,
       "fileSize": 862338
     },
     {
       "folderName": "appliedenergistics2-rv2-stable-10.jar",
       "fingerprint": 768593947,
-      "fileDateHash": 933202873,
+      "fileDateHash": 3477677151,
       "sectionID": 6,
       "individualFingerprints": [
         768593947
       ],
       "status": 1,
-      "timestamp": "2015-10-05T15:19:18.9722792Z",
-      "lastWriteTimeUtc": "2015-10-05T15:15:44.4900115Z",
-      "queryTimestamp": "2015-10-08T16:21:10.3417258Z",
+      "timestamp": "2015-10-09T07:10:07.1828604Z",
+      "lastWriteTimeUtc": "2015-10-09T07:02:47.6357198Z",
+      "queryTimestamp": "2015-10-09T07:10:08.8739572Z",
       "fileCount": 1,
       "fileSize": 2526302
     },
     {
-      "folderName": "mystcraft-1.7.10-0.12.3.00.jar",
-      "fingerprint": 1174483694,
-      "fileDateHash": 638508743,
-      "sectionID": 6,
-      "individualFingerprints": [
-        1174483694
-      ],
-      "status": 1,
-      "timestamp": "2015-10-05T15:19:19.266296Z",
-      "lastWriteTimeUtc": "2015-10-05T15:15:44.5470147Z",
-      "queryTimestamp": "2015-10-08T16:21:10.3417258Z",
-      "fileCount": 1,
-      "fileSize": 2207842
-    },
-    {
       "folderName": "PortalGun-4.0.0-beta-5.jar",
       "fingerprint": 2009803558,
-      "fileDateHash": 881742812,
+      "fileDateHash": 2163114220,
       "sectionID": 6,
       "individualFingerprints": [
         2009803558
       ],
       "status": 1,
-      "timestamp": "2015-10-05T15:19:19.301298Z",
-      "lastWriteTimeUtc": "2015-10-05T15:15:44.2729991Z",
-      "queryTimestamp": "2015-10-08T16:21:10.3417258Z",
+      "timestamp": "2015-10-09T07:10:07.7158909Z",
+      "lastWriteTimeUtc": "2015-10-09T07:02:47.272699Z",
+      "queryTimestamp": "2015-10-09T07:10:08.8739572Z",
       "fileCount": 1,
       "fileSize": 622810
     },
     {
-      "folderName": "NEI",
-      "fingerprint": 1624728739,
-      "fileDateHash": 2446775361,
-      "sectionID": 17,
+      "folderName": "mystcraft-1.7.10-0.12.3.00.jar",
+      "fingerprint": 1174483694,
+      "fileDateHash": 547433369,
+      "sectionID": 6,
       "individualFingerprints": [
-        253919618,
-        526201929,
-        621720796,
-        2118531772,
-        2118531772,
-        2118531772,
-        2847544137
+        1174483694
       ],
       "status": 1,
-      "timestamp": "2015-10-08T18:57:40.8499475Z",
-      "lastWriteTimeUtc": "2015-10-05T15:15:44.6980234Z",
-      "queryTimestamp": "2015-10-08T18:57:41.1429643Z",
-      "fileCount": 3,
+      "timestamp": "2015-10-09T07:10:07.6678882Z",
+      "lastWriteTimeUtc": "2015-10-09T07:02:47.7937288Z",
+      "queryTimestamp": "2015-10-09T07:10:08.8739572Z",
+      "fileCount": 1,
+      "fileSize": 2207842
+    },
+    {
+      "folderName": "NEI",
+      "fingerprint": 100803977,
+      "fileDateHash": 3248026948,
+      "sectionID": 17,
+      "individualFingerprints": [
+        1540447798
+      ],
+      "status": 1,
+      "timestamp": "2015-10-09T08:09:54.4500404Z",
+      "lastWriteTimeUtc": "2015-10-09T07:12:07.3127315Z",
+      "queryTimestamp": "2015-10-09T08:09:55.3150899Z",
+      "fileCount": 1,
       "fileSize": 0
     },
     {
       "folderName": "EnderIO-1.7.10-2.2.8.381.jar",
       "fingerprint": 153225074,
-      "fileDateHash": 3414125060,
+      "fileDateHash": 1787762464,
       "sectionID": 6,
       "individualFingerprints": [
         153225074
       ],
       "status": 1,
-      "timestamp": "2015-10-05T15:19:19.1452891Z",
-      "lastWriteTimeUtc": "2015-10-05T15:15:44.1789937Z",
-      "queryTimestamp": "2015-10-08T16:21:10.3417258Z",
+      "timestamp": "2015-10-09T07:10:07.4418752Z",
+      "lastWriteTimeUtc": "2015-10-09T07:02:47.0786879Z",
+      "queryTimestamp": "2015-10-09T07:10:08.8739572Z",
       "fileCount": 1,
       "fileSize": 4066035
     },
     {
       "folderName": "buildcraft-7.1.9.jar",
       "fingerprint": 1553586365,
-      "fileDateHash": 2801085246,
+      "fileDateHash": 2295697627,
       "sectionID": 6,
       "individualFingerprints": [
         1553586365
       ],
       "status": 1,
-      "timestamp": "2015-10-08T16:21:09.1517241Z",
-      "lastWriteTimeUtc": "2015-10-07T15:30:40.8996525Z",
-      "queryTimestamp": "2015-10-08T16:21:10.3417258Z",
+      "timestamp": "2015-10-09T07:10:07.3658709Z",
+      "lastWriteTimeUtc": "2015-10-09T07:02:47.6607212Z",
+      "queryTimestamp": "2015-10-09T07:10:08.8739572Z",
       "fileCount": 1,
       "fileSize": 2767038
     },
     {
       "folderName": "StevesCarts2.0.0.b18.jar",
       "fingerprint": 3374657576,
-      "fileDateHash": 74063584,
+      "fileDateHash": 2918503446,
       "sectionID": 6,
       "individualFingerprints": [
         3374657576
       ],
       "status": 1,
-      "timestamp": "2015-10-05T15:19:19.4093042Z",
-      "lastWriteTimeUtc": "2015-10-05T15:15:44.359004Z",
-      "queryTimestamp": "2015-10-08T16:21:10.3417258Z",
+      "timestamp": "2015-10-09T07:10:07.8648994Z",
+      "lastWriteTimeUtc": "2015-10-09T07:02:47.4157072Z",
+      "queryTimestamp": "2015-10-09T07:10:08.8739572Z",
       "fileCount": 1,
       "fileSize": 2532065
     },
     {
       "folderName": "ComputerCraft1.74.jar",
       "fingerprint": 2817005828,
-      "fileDateHash": 213512161,
+      "fileDateHash": 1531925459,
       "sectionID": 6,
       "individualFingerprints": [
         2817005828
       ],
       "status": 1,
-      "timestamp": "2015-10-05T15:19:19.1372886Z",
-      "lastWriteTimeUtc": "2015-10-05T15:15:44.1569924Z",
-      "queryTimestamp": "2015-10-08T16:21:10.3417258Z",
+      "timestamp": "2015-10-09T07:10:07.4308746Z",
+      "lastWriteTimeUtc": "2015-10-09T07:02:47.044686Z",
+      "queryTimestamp": "2015-10-09T07:10:08.8739572Z",
       "fileCount": 1,
       "fileSize": 1397898
     },
     {
       "folderName": "NetherOres-[1.7.10]2.3.0-12.jar",
       "fingerprint": 2097835846,
-      "fileDateHash": 1055236222,
+      "fileDateHash": 475122526,
       "sectionID": 6,
       "individualFingerprints": [
         2097835846
       ],
       "status": 1,
-      "timestamp": "2015-10-05T15:19:19.2772966Z",
-      "lastWriteTimeUtc": "2015-10-05T15:15:44.2419973Z",
-      "queryTimestamp": "2015-10-08T16:21:10.3417258Z",
+      "timestamp": "2015-10-09T07:10:07.681889Z",
+      "lastWriteTimeUtc": "2015-10-09T07:02:47.2236962Z",
+      "queryTimestamp": "2015-10-09T07:10:08.8739572Z",
       "fileCount": 1,
       "fileSize": 79555
     },
     {
       "folderName": "MineFactoryReloaded-[1.7.10]2.8.0-104.jar",
       "fingerprint": 31566919,
-      "fileDateHash": 1009644501,
+      "fileDateHash": 3060587577,
       "sectionID": 6,
       "individualFingerprints": [
         31566919
       ],
       "status": 1,
-      "timestamp": "2015-10-08T16:21:09.1917242Z",
-      "lastWriteTimeUtc": "2015-10-08T16:18:28.6908304Z",
-      "queryTimestamp": "2015-10-08T16:21:10.3417258Z",
+      "timestamp": "2015-10-09T07:10:07.6568875Z",
+      "lastWriteTimeUtc": "2015-10-09T07:02:47.219696Z",
+      "queryTimestamp": "2015-10-09T07:10:08.8739572Z",
       "fileCount": 1,
       "fileSize": 1719328
     }
   ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2015-10-08T18:57:17.2615983Z",
+  "lastPreviousMatchUpdate": "2015-10-09T08:09:57.2171986Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.7.10",
@@ -928,11 +937,11 @@
     "LastSyncDate": "0001-01-01T00:00:00"
   },
   "preferenceShowAddOnInfo": true,
-  "installDate": "2015-10-05T15:15:44.0289851Z",
+  "installDate": "2015-10-09T07:02:46.834674Z",
   "installedAddons": [
     {
       "addonID": 221863,
-      "gameInstanceID": "ce774241-0f8b-4887-8be9-e5c03e86eb8c",
+      "gameInstanceID": "a97f1399-6083-489e-ac8b-9d12715ca784",
       "installedFile": {
         "Id": 2256581,
         "FileName": "AOBD-2.8.4.jar",
@@ -985,204 +994,8 @@
       "manifestName": null
     },
     {
-      "addonID": 220318,
-      "gameInstanceID": "ce774241-0f8b-4887-8be9-e5c03e86eb8c",
-      "installedFile": {
-        "Id": 2229386,
-        "FileName": "BiomesOPlenty-1.7.10-2.1.0.1067-universal.jar",
-        "FileNameOnDisk": "BiomesOPlenty-1.7.10-2.1.0.1067-universal.jar",
-        "FileDate": "2015-03-04T09:39:43",
-        "ReleaseType": 2,
-        "FileStatus": 2,
-        "DownloadURL": "http://addons.curse.cursecdn.com/files/2229/386/BiomesOPlenty-1.7.10-2.1.0.1067-universal.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "assets",
-            "Fingerprint": 181833004
-          },
-          {
-            "Foldername": "biomesoplenty",
-            "Fingerprint": 1724296592
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 3493394912
-          },
-          {
-            "Foldername": "meta-inf",
-            "Fingerprint": 2464251221
-          },
-          {
-            "Foldername": "pack.mcmeta",
-            "Fingerprint": 72953735
-          },
-          {
-            "Foldername": "version.properties",
-            "Fingerprint": 1278009141
-          }
-        ],
-        "PackageFingerprint": 1659925933,
-        "GameVersion": [
-          "1.7.10"
-        ]
-      },
-      "dateInstalled": "2015-10-05T07:02:57.1334902Z",
-      "dateUpdated": "2014-10-05T07:02:57.1334902Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": true,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 228362,
-      "gameInstanceID": "ce774241-0f8b-4887-8be9-e5c03e86eb8c",
-      "installedFile": {
-        "Id": 2229577,
-        "FileName": "BiblioWoods Biomes O' Plenty edition v1.9 for BiblioCraft v1.9.x+",
-        "FileNameOnDisk": "BiblioWoods[BiomesOPlenty][v1.9].jar",
-        "FileDate": "2015-03-06T06:22:25",
-        "ReleaseType": 1,
-        "FileStatus": 2,
-        "DownloadURL": "http://addons.curse.cursecdn.com/files/2229/577/BiblioWoods[BiomesOPlenty][v1.9].jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [
-          {
-            "AddOnId": 228027,
-            "Type": 1
-          }
-        ],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "assets",
-            "Fingerprint": 347530070
-          },
-          {
-            "Foldername": "bibliocraft.png",
-            "Fingerprint": 2780544853
-          },
-          {
-            "Foldername": "copyright.txt",
-            "Fingerprint": 2749126763
-          },
-          {
-            "Foldername": "curseforge_small.png",
-            "Fingerprint": 1077125175
-          },
-          {
-            "Foldername": "jds",
-            "Fingerprint": 2827233057
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 3491653854
-          },
-          {
-            "Foldername": "meta-inf",
-            "Fingerprint": 2464251221
-          },
-          {
-            "Foldername": "pack.mcmeta",
-            "Fingerprint": 179562225
-          }
-        ],
-        "PackageFingerprint": 1503637749,
-        "GameVersion": [
-          "1.7.10",
-          "1.7.2"
-        ]
-      },
-      "dateInstalled": "2015-10-05T07:02:57.3645035Z",
-      "dateUpdated": "2014-10-05T07:02:57.3645035Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": true,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 228027,
-      "gameInstanceID": "ce774241-0f8b-4887-8be9-e5c03e86eb8c",
-      "installedFile": {
-        "Id": 2258792,
-        "FileName": "BiblioCraft v1.11.2",
-        "FileNameOnDisk": "BiblioCraft[v1.11.2][MC1.7.10].jar",
-        "FileDate": "2015-09-20T20:59:54",
-        "ReleaseType": 1,
-        "FileStatus": 2,
-        "DownloadURL": "http://addons.curse.cursecdn.com/files/2258/792/BiblioCraft[v1.11.2][MC1.7.10].jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "assets",
-            "Fingerprint": 89757742
-          },
-          {
-            "Foldername": "bibliocraft.png",
-            "Fingerprint": 2780544853
-          },
-          {
-            "Foldername": "bibliocraft_paintings_example_resource_pack.zip",
-            "Fingerprint": 1733254858
-          },
-          {
-            "Foldername": "copyright.txt",
-            "Fingerprint": 1107850364
-          },
-          {
-            "Foldername": "jds",
-            "Fingerprint": 2001569856
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 3451688489
-          },
-          {
-            "Foldername": "meta-inf",
-            "Fingerprint": 2464251221
-          },
-          {
-            "Foldername": "pack.mcmeta",
-            "Fingerprint": 179562225
-          }
-        ],
-        "PackageFingerprint": 415926958,
-        "GameVersion": [
-          "1.7.10"
-        ]
-      },
-      "dateInstalled": "2015-10-05T07:02:57.9135349Z",
-      "dateUpdated": "2014-10-05T07:02:57.9135349Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": true,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
       "addonID": 228819,
-      "gameInstanceID": "ce774241-0f8b-4887-8be9-e5c03e86eb8c",
+      "gameInstanceID": "a97f1399-6083-489e-ac8b-9d12715ca784",
       "installedFile": {
         "Id": 2250328,
         "FileName": "OpenPeripheralIntegration-1.7.10-0.3.jar",
@@ -1227,66 +1040,8 @@
           "1.7.10"
         ]
       },
-      "dateInstalled": "2015-10-05T15:19:21.032397Z",
-      "dateUpdated": "2014-10-05T15:19:21.032397Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": true,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 73488,
-      "gameInstanceID": "ce774241-0f8b-4887-8be9-e5c03e86eb8c",
-      "installedFile": {
-        "Id": 2230518,
-        "FileName": "Waila-1.5.10_1.7.10.jar",
-        "FileNameOnDisk": "Waila-1.5.10_1.7.10.jar",
-        "FileDate": "2015-03-18T15:22:30",
-        "ReleaseType": 1,
-        "FileStatus": 2,
-        "DownloadURL": "http://addons.curse.cursecdn.com/files/2230/518/Waila-1.5.10_1.7.10.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "assets",
-            "Fingerprint": 3305696608
-          },
-          {
-            "Foldername": "au",
-            "Fingerprint": 2296393542
-          },
-          {
-            "Foldername": "license.txt",
-            "Fingerprint": 2985416683
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 3862331241
-          },
-          {
-            "Foldername": "mcp",
-            "Fingerprint": 1572435787
-          },
-          {
-            "Foldername": "meta-inf",
-            "Fingerprint": 2464251221
-          }
-        ],
-        "PackageFingerprint": 1414103353,
-        "GameVersion": [
-          "1.7.10"
-        ]
-      },
-      "dateInstalled": "2015-10-05T15:19:21.032397Z",
-      "dateUpdated": "2014-10-05T15:19:21.032397Z",
+      "dateInstalled": "2015-10-09T07:10:09.2829805Z",
+      "dateUpdated": "2014-10-09T07:10:09.2829805Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -1299,7 +1054,7 @@
     },
     {
       "addonID": 76845,
-      "gameInstanceID": "ce774241-0f8b-4887-8be9-e5c03e86eb8c",
+      "gameInstanceID": "a97f1399-6083-489e-ac8b-9d12715ca784",
       "installedFile": {
         "Id": 2246472,
         "FileName": "TiCTooltips-mc1.7.10-1.2.5.jar",
@@ -1335,8 +1090,8 @@
           "1.7.10"
         ]
       },
-      "dateInstalled": "2015-10-05T15:19:21.0333971Z",
-      "dateUpdated": "2014-10-05T15:19:21.0333971Z",
+      "dateInstalled": "2015-10-09T07:10:09.2849807Z",
+      "dateUpdated": "2014-10-09T07:10:09.2849807Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -1349,7 +1104,7 @@
     },
     {
       "addonID": 227443,
-      "gameInstanceID": "ce774241-0f8b-4887-8be9-e5c03e86eb8c",
+      "gameInstanceID": "a97f1399-6083-489e-ac8b-9d12715ca784",
       "installedFile": {
         "Id": 2246949,
         "FileName": "ThermalDynamics-[1.7.10]1.1.0-161.jar",
@@ -1406,8 +1161,8 @@
           "1.7.10"
         ]
       },
-      "dateInstalled": "2015-10-05T15:19:21.0333971Z",
-      "dateUpdated": "2014-10-05T15:19:21.0333971Z",
+      "dateInstalled": "2015-10-09T07:10:09.2849807Z",
+      "dateUpdated": "2014-10-09T07:10:09.2849807Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -1420,7 +1175,7 @@
     },
     {
       "addonID": 225236,
-      "gameInstanceID": "ce774241-0f8b-4887-8be9-e5c03e86eb8c",
+      "gameInstanceID": "a97f1399-6083-489e-ac8b-9d12715ca784",
       "installedFile": {
         "Id": 2256718,
         "FileName": "Chisel 2 - 2.5.1",
@@ -1472,8 +1227,8 @@
           "1.7.10"
         ]
       },
-      "dateInstalled": "2015-10-05T15:19:21.0343971Z",
-      "dateUpdated": "2014-10-05T15:19:21.0343971Z",
+      "dateInstalled": "2015-10-09T07:10:09.2859807Z",
+      "dateUpdated": "2014-10-09T07:10:09.2859807Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -1486,7 +1241,7 @@
     },
     {
       "addonID": 228817,
-      "gameInstanceID": "ce774241-0f8b-4887-8be9-e5c03e86eb8c",
+      "gameInstanceID": "a97f1399-6083-489e-ac8b-9d12715ca784",
       "installedFile": {
         "Id": 2250324,
         "FileName": "OpenPeripheralCore-1.7.10-1.2.jar",
@@ -1547,8 +1302,8 @@
           "1.7.10"
         ]
       },
-      "dateInstalled": "2015-10-05T15:19:21.0343971Z",
-      "dateUpdated": "2014-10-05T15:19:21.0343971Z",
+      "dateInstalled": "2015-10-09T07:10:09.2869808Z",
+      "dateUpdated": "2014-10-09T07:10:09.2869808Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -1560,8 +1315,42 @@
       "manifestName": null
     },
     {
+      "addonID": 221418,
+      "gameInstanceID": "a97f1399-6083-489e-ac8b-9d12715ca784",
+      "installedFile": {
+        "Id": 2212916,
+        "FileName": "PerfectSpawn-1.1.jar",
+        "FileNameOnDisk": "PerfectSpawn-1.1.jar",
+        "FileDate": "2014-08-28T11:10:10",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "http://addons.curse.cursecdn.com/files/2212/916/PerfectSpawn-1.1.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [],
+        "PackageFingerprint": 3541062723,
+        "GameVersion": [
+          "1.7.10",
+          "1.7.2"
+        ]
+      },
+      "dateInstalled": "2015-10-09T07:10:09.2879808Z",
+      "dateUpdated": "2014-10-09T07:10:09.2879808Z",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
       "addonID": 74924,
-      "gameInstanceID": "ce774241-0f8b-4887-8be9-e5c03e86eb8c",
+      "gameInstanceID": "a97f1399-6083-489e-ac8b-9d12715ca784",
       "installedFile": {
         "Id": 2215235,
         "FileName": "Mantle-1.7.10-0.3.2.jar",
@@ -1601,8 +1390,66 @@
           "1.7.10"
         ]
       },
-      "dateInstalled": "2015-10-05T15:19:21.0343971Z",
-      "dateUpdated": "2014-10-05T15:19:21.0343971Z",
+      "dateInstalled": "2015-10-09T07:10:09.3919868Z",
+      "dateUpdated": "2014-10-09T07:10:09.3919868Z",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": true,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 220318,
+      "gameInstanceID": "a97f1399-6083-489e-ac8b-9d12715ca784",
+      "installedFile": {
+        "Id": 2229386,
+        "FileName": "BiomesOPlenty-1.7.10-2.1.0.1067-universal.jar",
+        "FileNameOnDisk": "BiomesOPlenty-1.7.10-2.1.0.1067-universal.jar",
+        "FileDate": "2015-03-04T09:39:43",
+        "ReleaseType": 2,
+        "FileStatus": 2,
+        "DownloadURL": "http://addons.curse.cursecdn.com/files/2229/386/BiomesOPlenty-1.7.10-2.1.0.1067-universal.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "assets",
+            "Fingerprint": 181833004
+          },
+          {
+            "Foldername": "biomesoplenty",
+            "Fingerprint": 1724296592
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 3493394912
+          },
+          {
+            "Foldername": "meta-inf",
+            "Fingerprint": 2464251221
+          },
+          {
+            "Foldername": "pack.mcmeta",
+            "Fingerprint": 72953735
+          },
+          {
+            "Foldername": "version.properties",
+            "Fingerprint": 1278009141
+          }
+        ],
+        "PackageFingerprint": 1659925933,
+        "GameVersion": [
+          "1.7.10"
+        ]
+      },
+      "dateInstalled": "2015-10-09T07:10:09.3929868Z",
+      "dateUpdated": "2014-10-09T07:10:09.3929868Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -1615,7 +1462,7 @@
     },
     {
       "addonID": 78057,
-      "gameInstanceID": "ce774241-0f8b-4887-8be9-e5c03e86eb8c",
+      "gameInstanceID": "a97f1399-6083-489e-ac8b-9d12715ca784",
       "installedFile": {
         "Id": 2229984,
         "FileName": "TMechworks-1.7.10-0.2.14.100.jar",
@@ -1656,8 +1503,8 @@
           "1.7.10"
         ]
       },
-      "dateInstalled": "2015-10-05T15:19:21.0353972Z",
-      "dateUpdated": "2014-10-05T15:19:21.0353972Z",
+      "dateInstalled": "2015-10-09T07:10:09.3939869Z",
+      "dateUpdated": "2014-10-09T07:10:09.3939869Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -1670,7 +1517,7 @@
     },
     {
       "addonID": 222211,
-      "gameInstanceID": "ce774241-0f8b-4887-8be9-e5c03e86eb8c",
+      "gameInstanceID": "a97f1399-6083-489e-ac8b-9d12715ca784",
       "installedFile": {
         "Id": 2237940,
         "FileName": "NotEnoughItems-1.7.10-1.0.4.107-universal.jar",
@@ -1711,8 +1558,8 @@
           "1.7.10"
         ]
       },
-      "dateInstalled": "2015-10-05T15:19:21.0353972Z",
-      "dateUpdated": "2014-10-05T15:19:21.0353972Z",
+      "dateInstalled": "2015-10-09T07:10:09.3939869Z",
+      "dateUpdated": "2014-10-09T07:10:09.3939869Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -1725,7 +1572,7 @@
     },
     {
       "addonID": 223628,
-      "gameInstanceID": "ce774241-0f8b-4887-8be9-e5c03e86eb8c",
+      "gameInstanceID": "a97f1399-6083-489e-ac8b-9d12715ca784",
       "installedFile": {
         "Id": 2227552,
         "FileName": "Thaumcraft-1.7.10-4.2.3.5.jar",
@@ -1786,8 +1633,70 @@
           "1.7.10"
         ]
       },
-      "dateInstalled": "2015-10-05T15:19:21.4664218Z",
-      "dateUpdated": "2014-10-05T15:19:21.4664218Z",
+      "dateInstalled": "2015-10-09T07:10:09.500993Z",
+      "dateUpdated": "2014-10-09T07:10:09.500993Z",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": true,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 73510,
+      "gameInstanceID": "a97f1399-6083-489e-ac8b-9d12715ca784",
+      "installedFile": {
+        "Id": 2229724,
+        "FileName": "Jabba-1.2.1a_1.7.10.jar",
+        "FileNameOnDisk": "Jabba-1.2.1a_1.7.10.jar",
+        "FileDate": "2015-03-07T22:47:48",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "http://addons.curse.cursecdn.com/files/2229/724/Jabba-1.2.1a_1.7.10.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "assets",
+            "Fingerprint": 303444195
+          },
+          {
+            "Foldername": "changelog.txt",
+            "Fingerprint": 2324715461
+          },
+          {
+            "Foldername": "license.txt",
+            "Fingerprint": 2985416683
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 1528167686
+          },
+          {
+            "Foldername": "mcp",
+            "Fingerprint": 953194538
+          },
+          {
+            "Foldername": "meta-inf",
+            "Fingerprint": 2464251221
+          },
+          {
+            "Foldername": "powercrystals",
+            "Fingerprint": 1048137568
+          }
+        ],
+        "PackageFingerprint": 1937240371,
+        "GameVersion": [
+          "1.7.10"
+        ]
+      },
+      "dateInstalled": "2015-10-09T07:10:09.5019931Z",
+      "dateUpdated": "2014-10-09T07:10:09.5019931Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -1800,7 +1709,7 @@
     },
     {
       "addonID": 224942,
-      "gameInstanceID": "ce774241-0f8b-4887-8be9-e5c03e86eb8c",
+      "gameInstanceID": "a97f1399-6083-489e-ac8b-9d12715ca784",
       "installedFile": {
         "Id": 2234692,
         "FileName": "Dense Ores 1.6.2",
@@ -1836,8 +1745,8 @@
           "1.7.10"
         ]
       },
-      "dateInstalled": "2015-10-05T15:19:21.4664218Z",
-      "dateUpdated": "2014-10-05T15:19:21.4664218Z",
+      "dateInstalled": "2015-10-09T07:10:09.5019931Z",
+      "dateUpdated": "2014-10-09T07:10:09.5019931Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -1850,7 +1759,7 @@
     },
     {
       "addonID": 222213,
-      "gameInstanceID": "ce774241-0f8b-4887-8be9-e5c03e86eb8c",
+      "gameInstanceID": "a97f1399-6083-489e-ac8b-9d12715ca784",
       "installedFile": {
         "Id": 2237939,
         "FileName": "CodeChickenCore-1.7.10-1.0.6.43-universal.jar",
@@ -1890,8 +1799,8 @@
           "1.7.10"
         ]
       },
-      "dateInstalled": "2015-10-05T15:19:21.4674219Z",
-      "dateUpdated": "2014-10-05T15:19:21.4674219Z",
+      "dateInstalled": "2015-10-09T07:10:09.5029931Z",
+      "dateUpdated": "2014-10-09T07:10:09.5029931Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -1904,7 +1813,7 @@
     },
     {
       "addonID": 223428,
-      "gameInstanceID": "ce774241-0f8b-4887-8be9-e5c03e86eb8c",
+      "gameInstanceID": "a97f1399-6083-489e-ac8b-9d12715ca784",
       "installedFile": {
         "Id": 2260928,
         "FileName": "EnderTech-1.7.10-0.3.2.405.jar",
@@ -1965,8 +1874,80 @@
           "1.7.10"
         ]
       },
-      "dateInstalled": "2015-10-05T15:19:21.6034297Z",
-      "dateUpdated": "2014-10-05T15:19:21.6034297Z",
+      "dateInstalled": "2015-10-09T07:10:09.6109993Z",
+      "dateUpdated": "2014-10-09T07:10:09.6109993Z",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": true,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 228362,
+      "gameInstanceID": "a97f1399-6083-489e-ac8b-9d12715ca784",
+      "installedFile": {
+        "Id": 2229577,
+        "FileName": "BiblioWoods Biomes O' Plenty edition v1.9 for BiblioCraft v1.9.x+",
+        "FileNameOnDisk": "BiblioWoods[BiomesOPlenty][v1.9].jar",
+        "FileDate": "2015-03-06T06:22:25",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "http://addons.curse.cursecdn.com/files/2229/577/BiblioWoods[BiomesOPlenty][v1.9].jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [
+          {
+            "AddOnId": 228027,
+            "Type": 1
+          }
+        ],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "assets",
+            "Fingerprint": 347530070
+          },
+          {
+            "Foldername": "bibliocraft.png",
+            "Fingerprint": 2780544853
+          },
+          {
+            "Foldername": "copyright.txt",
+            "Fingerprint": 2749126763
+          },
+          {
+            "Foldername": "curseforge_small.png",
+            "Fingerprint": 1077125175
+          },
+          {
+            "Foldername": "jds",
+            "Fingerprint": 2827233057
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 3491653854
+          },
+          {
+            "Foldername": "meta-inf",
+            "Fingerprint": 2464251221
+          },
+          {
+            "Foldername": "pack.mcmeta",
+            "Fingerprint": 179562225
+          }
+        ],
+        "PackageFingerprint": 1503637749,
+        "GameVersion": [
+          "1.7.10",
+          "1.7.2"
+        ]
+      },
+      "dateInstalled": "2015-10-09T07:10:09.6119994Z",
+      "dateUpdated": "2014-10-09T07:10:09.6119994Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -1979,7 +1960,7 @@
     },
     {
       "addonID": 224237,
-      "gameInstanceID": "ce774241-0f8b-4887-8be9-e5c03e86eb8c",
+      "gameInstanceID": "a97f1399-6083-489e-ac8b-9d12715ca784",
       "installedFile": {
         "Id": 2244620,
         "FileName": "Forbidden Magic-1.7.10-0.57.jar",
@@ -2019,8 +2000,54 @@
           "1.7.10"
         ]
       },
-      "dateInstalled": "2015-10-05T15:19:21.6044297Z",
-      "dateUpdated": "2014-10-05T15:19:21.6044297Z",
+      "dateInstalled": "2015-10-09T07:10:09.6119994Z",
+      "dateUpdated": "2014-10-09T07:10:09.6119994Z",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": true,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 233105,
+      "gameInstanceID": "a97f1399-6083-489e-ac8b-9d12715ca784",
+      "installedFile": {
+        "Id": 2261136,
+        "FileName": "mcjtylib-1.6.0.jar",
+        "FileNameOnDisk": "mcjtylib-1.6.0.jar",
+        "FileDate": "2015-10-05T18:45:43",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "http://addons.curse.cursecdn.com/files/2261/136/mcjtylib-1.6.0.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "mcjty",
+            "Fingerprint": 595139848
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 863568042
+          },
+          {
+            "Foldername": "meta-inf",
+            "Fingerprint": 2464251221
+          }
+        ],
+        "PackageFingerprint": 3996300682,
+        "GameVersion": [
+          "1.7.10"
+        ]
+      },
+      "dateInstalled": "2015-10-09T07:10:09.6119994Z",
+      "dateUpdated": "2014-10-09T07:10:09.6119994Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -2033,7 +2060,7 @@
     },
     {
       "addonID": 223094,
-      "gameInstanceID": "ce774241-0f8b-4887-8be9-e5c03e86eb8c",
+      "gameInstanceID": "a97f1399-6083-489e-ac8b-9d12715ca784",
       "installedFile": {
         "Id": 2210792,
         "FileName": "Inventory Tweaks 1.59-dev-152",
@@ -2053,8 +2080,8 @@
           "1.7.2"
         ]
       },
-      "dateInstalled": "2015-10-05T15:19:21.6044297Z",
-      "dateUpdated": "2014-10-05T15:19:21.6044297Z",
+      "dateInstalled": "2015-10-09T07:10:09.6129994Z",
+      "dateUpdated": "2014-10-09T07:10:09.6129994Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -2067,7 +2094,7 @@
     },
     {
       "addonID": 223248,
-      "gameInstanceID": "ce774241-0f8b-4887-8be9-e5c03e86eb8c",
+      "gameInstanceID": "a97f1399-6083-489e-ac8b-9d12715ca784",
       "installedFile": {
         "Id": 2237600,
         "FileName": "IguanaTinkerTweaks-1.7.10-2.1.5.jar",
@@ -2112,8 +2139,8 @@
           "1.7.10"
         ]
       },
-      "dateInstalled": "2015-10-05T15:19:21.7334371Z",
-      "dateUpdated": "2014-10-05T15:19:21.7334371Z",
+      "dateInstalled": "2015-10-09T07:10:10.0180226Z",
+      "dateUpdated": "2014-10-09T07:10:10.0180226Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -2126,7 +2153,7 @@
     },
     {
       "addonID": 75598,
-      "gameInstanceID": "ce774241-0f8b-4887-8be9-e5c03e86eb8c",
+      "gameInstanceID": "a97f1399-6083-489e-ac8b-9d12715ca784",
       "installedFile": {
         "Id": 2232793,
         "FileName": "Thaumic Tinkerer 164",
@@ -2174,8 +2201,58 @@
           "1.7.10"
         ]
       },
-      "dateInstalled": "2015-10-05T15:19:21.7334371Z",
-      "dateUpdated": "2014-10-05T15:19:21.7334371Z",
+      "dateInstalled": "2015-10-09T07:10:10.0180226Z",
+      "dateUpdated": "2014-10-09T07:10:10.0180226Z",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": true,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 224298,
+      "gameInstanceID": "a97f1399-6083-489e-ac8b-9d12715ca784",
+      "installedFile": {
+        "Id": 2255379,
+        "FileName": "MobProperties-1.7.10-0.4.2.jar",
+        "FileNameOnDisk": "MobProperties-1.7.10-0.4.2.jar",
+        "FileDate": "2015-09-03T03:32:43",
+        "ReleaseType": 2,
+        "FileStatus": 2,
+        "DownloadURL": "http://addons.curse.cursecdn.com/files/2255/379/MobProperties-1.7.10-0.4.2.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "changelog.txt",
+            "Fingerprint": 313945957
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 773566406
+          },
+          {
+            "Foldername": "meta-inf",
+            "Fingerprint": 2464251221
+          },
+          {
+            "Foldername": "toast",
+            "Fingerprint": 1923186564
+          }
+        ],
+        "PackageFingerprint": 2120564703,
+        "GameVersion": [
+          "1.7.10"
+        ]
+      },
+      "dateInstalled": "2015-10-09T07:10:10.0190226Z",
+      "dateUpdated": "2014-10-09T07:10:10.0190226Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -2188,7 +2265,7 @@
     },
     {
       "addonID": 69162,
-      "gameInstanceID": "ce774241-0f8b-4887-8be9-e5c03e86eb8c",
+      "gameInstanceID": "a97f1399-6083-489e-ac8b-9d12715ca784",
       "installedFile": {
         "Id": 2246919,
         "FileName": "CoFHCore-[1.7.10]3.0.3-303.jar",
@@ -2241,8 +2318,8 @@
           "1.7.10"
         ]
       },
-      "dateInstalled": "2015-10-05T15:19:21.7344371Z",
-      "dateUpdated": "2014-10-05T15:19:21.7344371Z",
+      "dateInstalled": "2015-10-09T07:10:10.0200227Z",
+      "dateUpdated": "2014-10-09T07:10:10.0200227Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -2255,7 +2332,7 @@
     },
     {
       "addonID": 228756,
-      "gameInstanceID": "ce774241-0f8b-4887-8be9-e5c03e86eb8c",
+      "gameInstanceID": "a97f1399-6083-489e-ac8b-9d12715ca784",
       "installedFile": {
         "Id": 2230907,
         "FileName": "ironchest-1.7.10-6.0.60.741-universal.jar",
@@ -2295,8 +2372,8 @@
           "1.7.10"
         ]
       },
-      "dateInstalled": "2015-10-05T15:19:21.7344371Z",
-      "dateUpdated": "2014-10-05T15:19:21.7344371Z",
+      "dateInstalled": "2015-10-09T07:10:10.0210228Z",
+      "dateUpdated": "2014-10-09T07:10:10.0210228Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -2309,7 +2386,7 @@
     },
     {
       "addonID": 228816,
-      "gameInstanceID": "ce774241-0f8b-4887-8be9-e5c03e86eb8c",
+      "gameInstanceID": "a97f1399-6083-489e-ac8b-9d12715ca784",
       "installedFile": {
         "Id": 2250321,
         "FileName": "OpenBlocks-1.7.10-1.4.4.jar",
@@ -2354,8 +2431,8 @@
           "1.7.10"
         ]
       },
-      "dateInstalled": "2015-10-05T15:19:22.1904632Z",
-      "dateUpdated": "2014-10-05T15:19:22.1904632Z",
+      "dateInstalled": "2015-10-09T07:10:10.1290289Z",
+      "dateUpdated": "2014-10-09T07:10:10.1290289Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -2368,7 +2445,7 @@
     },
     {
       "addonID": 74072,
-      "gameInstanceID": "ce774241-0f8b-4887-8be9-e5c03e86eb8c",
+      "gameInstanceID": "a97f1399-6083-489e-ac8b-9d12715ca784",
       "installedFile": {
         "Id": 2253057,
         "FileName": "TConstruct-1.7.10-1.8.7.jar",
@@ -2421,8 +2498,8 @@
           "1.7.10"
         ]
       },
-      "dateInstalled": "2015-10-05T15:19:22.1924633Z",
-      "dateUpdated": "2014-10-05T15:19:22.1924633Z",
+      "dateInstalled": "2015-10-09T07:10:10.1290289Z",
+      "dateUpdated": "2014-10-09T07:10:10.1290289Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -2435,7 +2512,7 @@
     },
     {
       "addonID": 224791,
-      "gameInstanceID": "ce774241-0f8b-4887-8be9-e5c03e86eb8c",
+      "gameInstanceID": "a97f1399-6083-489e-ac8b-9d12715ca784",
       "installedFile": {
         "Id": 2252027,
         "FileName": "BloodMagic-1.7.10-1.3.3-13.jar",
@@ -2479,8 +2556,74 @@
           "1.7.10"
         ]
       },
-      "dateInstalled": "2015-10-05T15:19:22.1924633Z",
-      "dateUpdated": "2014-10-05T15:19:22.1924633Z",
+      "dateInstalled": "2015-10-09T07:10:10.130029Z",
+      "dateUpdated": "2014-10-09T07:10:10.130029Z",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": true,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 228027,
+      "gameInstanceID": "a97f1399-6083-489e-ac8b-9d12715ca784",
+      "installedFile": {
+        "Id": 2258792,
+        "FileName": "BiblioCraft v1.11.2",
+        "FileNameOnDisk": "BiblioCraft[v1.11.2][MC1.7.10].jar",
+        "FileDate": "2015-09-20T20:59:54",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "http://addons.curse.cursecdn.com/files/2258/792/BiblioCraft[v1.11.2][MC1.7.10].jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "assets",
+            "Fingerprint": 89757742
+          },
+          {
+            "Foldername": "bibliocraft.png",
+            "Fingerprint": 2780544853
+          },
+          {
+            "Foldername": "bibliocraft_paintings_example_resource_pack.zip",
+            "Fingerprint": 1733254858
+          },
+          {
+            "Foldername": "copyright.txt",
+            "Fingerprint": 1107850364
+          },
+          {
+            "Foldername": "jds",
+            "Fingerprint": 2001569856
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 3451688489
+          },
+          {
+            "Foldername": "meta-inf",
+            "Fingerprint": 2464251221
+          },
+          {
+            "Foldername": "pack.mcmeta",
+            "Fingerprint": 179562225
+          }
+        ],
+        "PackageFingerprint": 415926958,
+        "GameVersion": [
+          "1.7.10"
+        ]
+      },
+      "dateInstalled": "2015-10-09T07:10:10.130029Z",
+      "dateUpdated": "2014-10-09T07:10:10.130029Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -2493,7 +2636,7 @@
     },
     {
       "addonID": 223106,
-      "gameInstanceID": "ce774241-0f8b-4887-8be9-e5c03e86eb8c",
+      "gameInstanceID": "a97f1399-6083-489e-ac8b-9d12715ca784",
       "installedFile": {
         "Id": 2230582,
         "FileName": "EnderCompass-1.7.x-1.1.jar",
@@ -2530,8 +2673,8 @@
           "1.7.2"
         ]
       },
-      "dateInstalled": "2015-10-05T15:19:22.1924633Z",
-      "dateUpdated": "2014-10-05T15:19:22.1924633Z",
+      "dateInstalled": "2015-10-09T07:10:10.130029Z",
+      "dateUpdated": "2014-10-09T07:10:10.130029Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -2544,7 +2687,7 @@
     },
     {
       "addonID": 72728,
-      "gameInstanceID": "ce774241-0f8b-4887-8be9-e5c03e86eb8c",
+      "gameInstanceID": "a97f1399-6083-489e-ac8b-9d12715ca784",
       "installedFile": {
         "Id": 2239878,
         "FileName": "ExtraTiC-1.7.10-1.4.5.jar",
@@ -2585,8 +2728,8 @@
           "1.7.10"
         ]
       },
-      "dateInstalled": "2015-10-05T15:19:22.1934634Z",
-      "dateUpdated": "2014-10-05T15:19:22.1934634Z",
+      "dateInstalled": "2015-10-09T07:10:10.1310291Z",
+      "dateUpdated": "2014-10-09T07:10:10.1310291Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -2599,7 +2742,7 @@
     },
     {
       "addonID": 229060,
-      "gameInstanceID": "ce774241-0f8b-4887-8be9-e5c03e86eb8c",
+      "gameInstanceID": "a97f1399-6083-489e-ac8b-9d12715ca784",
       "installedFile": {
         "Id": 2233005,
         "FileName": "iChunUtil-4.2.2.jar",
@@ -2647,8 +2790,8 @@
           "1.7.10"
         ]
       },
-      "dateInstalled": "2015-10-05T15:19:22.1934634Z",
-      "dateUpdated": "2014-10-05T15:19:22.1934634Z",
+      "dateInstalled": "2015-10-09T07:10:10.1310291Z",
+      "dateUpdated": "2014-10-09T07:10:10.1310291Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -2661,7 +2804,7 @@
     },
     {
       "addonID": 225561,
-      "gameInstanceID": "ce774241-0f8b-4887-8be9-e5c03e86eb8c",
+      "gameInstanceID": "a97f1399-6083-489e-ac8b-9d12715ca784",
       "installedFile": {
         "Id": 2254261,
         "FileName": "Extra Utilities 1.2.11",
@@ -2713,8 +2856,8 @@
           "1.7.10"
         ]
       },
-      "dateInstalled": "2015-10-05T15:19:22.325471Z",
-      "dateUpdated": "2014-10-05T15:19:22.325471Z",
+      "dateInstalled": "2015-10-09T07:10:10.5580535Z",
+      "dateUpdated": "2014-10-09T07:10:10.5580535Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -2727,7 +2870,7 @@
     },
     {
       "addonID": 51195,
-      "gameInstanceID": "ce774241-0f8b-4887-8be9-e5c03e86eb8c",
+      "gameInstanceID": "a97f1399-6083-489e-ac8b-9d12715ca784",
       "installedFile": {
         "Id": 2251559,
         "FileName": "Railcraft 9.7.0.0",
@@ -2807,8 +2950,71 @@
           "1.7.10"
         ]
       },
-      "dateInstalled": "2015-10-05T15:19:22.325471Z",
-      "dateUpdated": "2014-10-05T15:19:22.325471Z",
+      "dateInstalled": "2015-10-09T07:10:10.5590535Z",
+      "dateUpdated": "2014-10-09T07:10:10.5590535Z",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": true,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 224641,
+      "gameInstanceID": "a97f1399-6083-489e-ac8b-9d12715ca784",
+      "installedFile": {
+        "Id": 2261142,
+        "FileName": "rftools-3.42.jar",
+        "FileNameOnDisk": "rftools-3.42.jar",
+        "FileDate": "2015-10-05T18:50:16",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "http://addons.curse.cursecdn.com/files/2261/142/rftools-3.42.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [
+          {
+            "AddOnId": 233105,
+            "Type": 1
+          }
+        ],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "assets",
+            "Fingerprint": 2063661768
+          },
+          {
+            "Foldername": "mcjty",
+            "Fingerprint": 515534394
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 2286000257
+          },
+          {
+            "Foldername": "meta-inf",
+            "Fingerprint": 2464251221
+          },
+          {
+            "Foldername": "nei_at.cfg",
+            "Fingerprint": 1559780743
+          },
+          {
+            "Foldername": "pack.mcmeta",
+            "Fingerprint": 1845875129
+          }
+        ],
+        "PackageFingerprint": 800814502,
+        "GameVersion": [
+          "1.7.10"
+        ]
+      },
+      "dateInstalled": "2015-10-09T07:10:10.5600536Z",
+      "dateUpdated": "2014-10-09T07:10:10.5600536Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -2821,7 +3027,7 @@
     },
     {
       "addonID": 77027,
-      "gameInstanceID": "ce774241-0f8b-4887-8be9-e5c03e86eb8c",
+      "gameInstanceID": "a97f1399-6083-489e-ac8b-9d12715ca784",
       "installedFile": {
         "Id": 2237731,
         "FileName": "HQM-The Journey (4.2.4).jar",
@@ -2857,8 +3063,8 @@
           "1.7.10"
         ]
       },
-      "dateInstalled": "2015-10-05T15:19:22.3364716Z",
-      "dateUpdated": "2014-10-05T15:19:22.3364716Z",
+      "dateInstalled": "2015-10-09T07:10:10.5610537Z",
+      "dateUpdated": "2014-10-09T07:10:10.5610537Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -2871,7 +3077,7 @@
     },
     {
       "addonID": 225247,
-      "gameInstanceID": "ce774241-0f8b-4887-8be9-e5c03e86eb8c",
+      "gameInstanceID": "a97f1399-6083-489e-ac8b-9d12715ca784",
       "installedFile": {
         "Id": 2252457,
         "FileName": "EnderZoo-1.7.10-1.0.15.32.jar",
@@ -2907,8 +3113,8 @@
           "1.7.10"
         ]
       },
-      "dateInstalled": "2015-10-05T15:19:22.3364716Z",
-      "dateUpdated": "2014-10-05T15:19:22.3364716Z",
+      "dateInstalled": "2015-10-09T07:10:10.5620537Z",
+      "dateUpdated": "2014-10-09T07:10:10.5620537Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -2921,7 +3127,7 @@
     },
     {
       "addonID": 222880,
-      "gameInstanceID": "ce774241-0f8b-4887-8be9-e5c03e86eb8c",
+      "gameInstanceID": "a97f1399-6083-489e-ac8b-9d12715ca784",
       "installedFile": {
         "Id": 2246921,
         "FileName": "ThermalFoundation-[1.7.10]1.2.0-102.jar",
@@ -2978,8 +3184,8 @@
           "1.7.10"
         ]
       },
-      "dateInstalled": "2015-10-05T15:19:22.4644789Z",
-      "dateUpdated": "2014-10-05T15:19:22.4644789Z",
+      "dateInstalled": "2015-10-09T07:10:10.6780603Z",
+      "dateUpdated": "2014-10-09T07:10:10.6780603Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -2992,7 +3198,7 @@
     },
     {
       "addonID": 59751,
-      "gameInstanceID": "ce774241-0f8b-4887-8be9-e5c03e86eb8c",
+      "gameInstanceID": "a97f1399-6083-489e-ac8b-9d12715ca784",
       "installedFile": {
         "Id": 2260695,
         "FileName": "Forestry 3.6.10",
@@ -3052,9 +3258,9 @@
           "1.7.10"
         ]
       },
-      "dateInstalled": "2015-10-05T15:19:22.465479Z",
-      "dateUpdated": "2014-10-05T15:19:22.465479Z",
-      "status": 5,
+      "dateInstalled": "2015-10-09T07:10:10.6790604Z",
+      "dateUpdated": "2014-10-09T07:10:10.6790604Z",
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3066,7 +3272,7 @@
     },
     {
       "addonID": 228818,
-      "gameInstanceID": "ce774241-0f8b-4887-8be9-e5c03e86eb8c",
+      "gameInstanceID": "a97f1399-6083-489e-ac8b-9d12715ca784",
       "installedFile": {
         "Id": 2250326,
         "FileName": "OpenPeripheralAddons-1.7.10-0.4.jar",
@@ -3115,8 +3321,8 @@
           "1.7.10"
         ]
       },
-      "dateInstalled": "2015-10-05T15:19:22.465479Z",
-      "dateUpdated": "2014-10-05T15:19:22.465479Z",
+      "dateInstalled": "2015-10-09T07:10:10.6800605Z",
+      "dateUpdated": "2014-10-09T07:10:10.6800605Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -3129,7 +3335,7 @@
     },
     {
       "addonID": 69163,
-      "gameInstanceID": "ce774241-0f8b-4887-8be9-e5c03e86eb8c",
+      "gameInstanceID": "a97f1399-6083-489e-ac8b-9d12715ca784",
       "installedFile": {
         "Id": 2246924,
         "FileName": "ThermalExpansion-[1.7.10]4.0.3B1-218.jar",
@@ -3186,8 +3392,74 @@
           "1.7.10"
         ]
       },
-      "dateInstalled": "2015-10-05T15:19:22.466479Z",
-      "dateUpdated": "2014-10-05T15:19:22.466479Z",
+      "dateInstalled": "2015-10-09T07:10:10.6810605Z",
+      "dateUpdated": "2014-10-09T07:10:10.6810605Z",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": true,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 32274,
+      "gameInstanceID": "a97f1399-6083-489e-ac8b-9d12715ca784",
+      "installedFile": {
+        "Id": 2245168,
+        "FileName": "journeymap-1.7.10-5.1.0-unlimited.jar",
+        "FileNameOnDisk": "journeymap-1.7.10-5.1.0-unlimited.jar",
+        "FileDate": "2015-07-01T22:48:45",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "http://addons.curse.cursecdn.com/files/2245/168/journeymap-1.7.10-5.1.0-unlimited.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "ar",
+            "Fingerprint": 3579885152
+          },
+          {
+            "Foldername": "assets",
+            "Fingerprint": 2571635898
+          },
+          {
+            "Foldername": "license.txt",
+            "Fingerprint": 2144237046
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 885420840
+          },
+          {
+            "Foldername": "meta-inf",
+            "Fingerprint": 978057955
+          },
+          {
+            "Foldername": "modinfo",
+            "Fingerprint": 478387965
+          },
+          {
+            "Foldername": "net",
+            "Fingerprint": 2086058450
+          },
+          {
+            "Foldername": "se",
+            "Fingerprint": 3693623929
+          }
+        ],
+        "PackageFingerprint": 2022525997,
+        "GameVersion": [
+          "1.7.10"
+        ]
+      },
+      "dateInstalled": "2015-10-09T07:10:10.6820606Z",
+      "dateUpdated": "2014-10-09T07:10:10.6820606Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -3200,7 +3472,7 @@
     },
     {
       "addonID": 70631,
-      "gameInstanceID": "ce774241-0f8b-4887-8be9-e5c03e86eb8c",
+      "gameInstanceID": "a97f1399-6083-489e-ac8b-9d12715ca784",
       "installedFile": {
         "Id": 2246927,
         "FileName": "RedstoneArsenal-[1.7.10]1.1.1-89.jar",
@@ -3253,8 +3525,8 @@
           "1.7.10"
         ]
       },
-      "dateInstalled": "2015-10-05T15:19:22.466479Z",
-      "dateUpdated": "2014-10-05T15:19:22.466479Z",
+      "dateInstalled": "2015-10-09T07:10:10.7980672Z",
+      "dateUpdated": "2014-10-09T07:10:10.7980672Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -3267,7 +3539,7 @@
     },
     {
       "addonID": 228815,
-      "gameInstanceID": "ce774241-0f8b-4887-8be9-e5c03e86eb8c",
+      "gameInstanceID": "a97f1399-6083-489e-ac8b-9d12715ca784",
       "installedFile": {
         "Id": 2250318,
         "FileName": "OpenModsLib-1.7.10-0.8.jar",
@@ -3307,8 +3579,8 @@
           "1.7.10"
         ]
       },
-      "dateInstalled": "2015-10-05T15:19:22.466479Z",
-      "dateUpdated": "2014-10-05T15:19:22.466479Z",
+      "dateInstalled": "2015-10-09T07:10:10.7990673Z",
+      "dateUpdated": "2014-10-09T07:10:10.7990673Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -3321,7 +3593,7 @@
     },
     {
       "addonID": 223794,
-      "gameInstanceID": "ce774241-0f8b-4887-8be9-e5c03e86eb8c",
+      "gameInstanceID": "a97f1399-6083-489e-ac8b-9d12715ca784",
       "installedFile": {
         "Id": 2245762,
         "FileName": "appliedenergistics2-rv2-stable-10.jar",
@@ -3361,8 +3633,8 @@
           "1.7.10"
         ]
       },
-      "dateInstalled": "2015-10-05T15:19:22.4674791Z",
-      "dateUpdated": "2014-10-05T15:19:22.4674791Z",
+      "dateInstalled": "2015-10-09T07:10:10.8000673Z",
+      "dateUpdated": "2014-10-09T07:10:10.8000673Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -3375,7 +3647,7 @@
     },
     {
       "addonID": 229084,
-      "gameInstanceID": "ce774241-0f8b-4887-8be9-e5c03e86eb8c",
+      "gameInstanceID": "a97f1399-6083-489e-ac8b-9d12715ca784",
       "installedFile": {
         "Id": 2245019,
         "FileName": "PortalGun-4.0.0-beta-5.jar",
@@ -3412,8 +3684,8 @@
           "1.7.10"
         ]
       },
-      "dateInstalled": "2015-10-05T15:19:22.4674791Z",
-      "dateUpdated": "2014-10-05T15:19:22.4674791Z",
+      "dateInstalled": "2015-10-09T07:10:10.8000673Z",
+      "dateUpdated": "2014-10-09T07:10:10.8000673Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -3426,7 +3698,7 @@
     },
     {
       "addonID": 224599,
-      "gameInstanceID": "ce774241-0f8b-4887-8be9-e5c03e86eb8c",
+      "gameInstanceID": "a97f1399-6083-489e-ac8b-9d12715ca784",
       "installedFile": {
         "Id": 2250406,
         "FileName": "mystcraft-1.7.10-0.12.3.00.jar",
@@ -3466,8 +3738,8 @@
           "1.7.10"
         ]
       },
-      "dateInstalled": "2015-10-05T15:19:22.4674791Z",
-      "dateUpdated": "2014-10-05T15:19:22.4674791Z",
+      "dateInstalled": "2015-10-09T07:10:10.8010674Z",
+      "dateUpdated": "2014-10-09T07:10:10.8010674Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -3480,7 +3752,7 @@
     },
     {
       "addonID": 64578,
-      "gameInstanceID": "ce774241-0f8b-4887-8be9-e5c03e86eb8c",
+      "gameInstanceID": "a97f1399-6083-489e-ac8b-9d12715ca784",
       "installedFile": {
         "Id": 2238375,
         "FileName": "EnderIO-1.7.10-2.2.8.381.jar",
@@ -3556,410 +3828,8 @@
           "1.7.10"
         ]
       },
-      "dateInstalled": "2015-10-05T15:19:22.4684791Z",
-      "dateUpdated": "2014-10-05T15:19:22.4684791Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": true,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 228625,
-      "gameInstanceID": "ce774241-0f8b-4887-8be9-e5c03e86eb8c",
-      "installedFile": {
-        "Id": 2230425,
-        "FileName": "StevesCarts2.0.0.b18.jar",
-        "FileNameOnDisk": "StevesCarts2.0.0.b18.jar",
-        "FileDate": "2015-03-17T00:55:39",
-        "ReleaseType": 2,
-        "FileStatus": 2,
-        "DownloadURL": "http://addons.curse.cursecdn.com/files/2230/425/StevesCarts2.0.0.b18.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "assets",
-            "Fingerprint": 3948985261
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 2944812814
-          },
-          {
-            "Foldername": "meta-inf",
-            "Fingerprint": 2464251221
-          },
-          {
-            "Foldername": "vswe",
-            "Fingerprint": 3214659406
-          }
-        ],
-        "PackageFingerprint": 3374657576,
-        "GameVersion": [
-          "1.7.10"
-        ]
-      },
-      "dateInstalled": "2015-10-05T15:19:22.4684791Z",
-      "dateUpdated": "2014-10-05T15:19:22.4684791Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": true,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 67504,
-      "gameInstanceID": "ce774241-0f8b-4887-8be9-e5c03e86eb8c",
-      "installedFile": {
-        "Id": 2244605,
-        "FileName": "ComputerCraft 1.74",
-        "FileNameOnDisk": "ComputerCraft1.74.jar",
-        "FileDate": "2015-06-27T21:28:37",
-        "ReleaseType": 1,
-        "FileStatus": 2,
-        "DownloadURL": "http://addons.curse.cursecdn.com/files/2244/605/ComputerCraft1.74.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "api",
-            "Fingerprint": 1751074326
-          },
-          {
-            "Foldername": "assets",
-            "Fingerprint": 235986513
-          },
-          {
-            "Foldername": "dan200",
-            "Fingerprint": 208038279
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 2209976500
-          },
-          {
-            "Foldername": "meta-inf",
-            "Fingerprint": 2464251221
-          },
-          {
-            "Foldername": "org",
-            "Fingerprint": 3161414049
-          },
-          {
-            "Foldername": "pack.mcmeta",
-            "Fingerprint": 2654988231
-          },
-          {
-            "Foldername": "pack.png",
-            "Fingerprint": 1242240904
-          }
-        ],
-        "PackageFingerprint": 2817005828,
-        "GameVersion": [
-          "1.7.10"
-        ]
-      },
-      "dateInstalled": "2015-10-05T15:19:22.4694792Z",
-      "dateUpdated": "2014-10-05T15:19:22.4694792Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": true,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 66675,
-      "gameInstanceID": "ce774241-0f8b-4887-8be9-e5c03e86eb8c",
-      "installedFile": {
-        "Id": 2233919,
-        "FileName": "NetherOres-[1.7.10]2.3.0-12.jar",
-        "FileNameOnDisk": "NetherOres-[1.7.10]2.3.0-12.jar",
-        "FileDate": "2015-04-12T07:18:05",
-        "ReleaseType": 1,
-        "FileStatus": 2,
-        "DownloadURL": "http://addons.curse.cursecdn.com/files/2233/919/NetherOres-[1.7.10]2.3.0-12.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "assets",
-            "Fingerprint": 1437672473
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 1079894690
-          },
-          {
-            "Foldername": "meta-inf",
-            "Fingerprint": 3378896114
-          },
-          {
-            "Foldername": "powercrystals",
-            "Fingerprint": 138315671
-          },
-          {
-            "Foldername": "vers.prop",
-            "Fingerprint": 1308713284
-          }
-        ],
-        "PackageFingerprint": 2097835846,
-        "GameVersion": [
-          "1.7.10"
-        ]
-      },
-      "dateInstalled": "2015-10-05T15:19:22.4694792Z",
-      "dateUpdated": "2014-10-05T15:19:22.4694792Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": true,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 224298,
-      "gameInstanceID": "ce774241-0f8b-4887-8be9-e5c03e86eb8c",
-      "installedFile": {
-        "Id": 2255379,
-        "FileName": "MobProperties-1.7.10-0.4.2.jar",
-        "FileNameOnDisk": "MobProperties-1.7.10-0.4.2.jar",
-        "FileDate": "2015-09-03T03:32:43",
-        "ReleaseType": 2,
-        "FileStatus": 2,
-        "DownloadURL": "http://addons.curse.cursecdn.com/files/2255/379/MobProperties-1.7.10-0.4.2.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "changelog.txt",
-            "Fingerprint": 313945957
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 773566406
-          },
-          {
-            "Foldername": "meta-inf",
-            "Fingerprint": 2464251221
-          },
-          {
-            "Foldername": "toast",
-            "Fingerprint": 1923186564
-          }
-        ],
-        "PackageFingerprint": 2120564703,
-        "GameVersion": [
-          "1.7.10"
-        ]
-      },
-      "dateInstalled": "2015-10-06T14:51:31.9645204Z",
-      "dateUpdated": "2014-10-06T14:51:31.9645204Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": true,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 73510,
-      "gameInstanceID": "ce774241-0f8b-4887-8be9-e5c03e86eb8c",
-      "installedFile": {
-        "Id": 2229724,
-        "FileName": "Jabba-1.2.1a_1.7.10.jar",
-        "FileNameOnDisk": "Jabba-1.2.1a_1.7.10.jar",
-        "FileDate": "2015-03-07T22:47:48",
-        "ReleaseType": 1,
-        "FileStatus": 2,
-        "DownloadURL": "http://addons.curse.cursecdn.com/files/2229/724/Jabba-1.2.1a_1.7.10.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "assets",
-            "Fingerprint": 303444195
-          },
-          {
-            "Foldername": "changelog.txt",
-            "Fingerprint": 2324715461
-          },
-          {
-            "Foldername": "license.txt",
-            "Fingerprint": 2985416683
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 1528167686
-          },
-          {
-            "Foldername": "mcp",
-            "Fingerprint": 953194538
-          },
-          {
-            "Foldername": "meta-inf",
-            "Fingerprint": 2464251221
-          },
-          {
-            "Foldername": "powercrystals",
-            "Fingerprint": 1048137568
-          }
-        ],
-        "PackageFingerprint": 1937240371,
-        "GameVersion": [
-          "1.7.10"
-        ]
-      },
-      "dateInstalled": "2015-10-07T15:30:42.4777427Z",
-      "dateUpdated": "2014-10-07T15:30:42.4777427Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": true,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 66672,
-      "gameInstanceID": "ce774241-0f8b-4887-8be9-e5c03e86eb8c",
-      "installedFile": {
-        "Id": 2233906,
-        "FileName": "MineFactoryReloaded-[1.7.10]2.8.0-104.jar",
-        "FileNameOnDisk": "MineFactoryReloaded-[1.7.10]2.8.0-104.jar",
-        "FileDate": "2015-04-12T06:01:14",
-        "ReleaseType": 1,
-        "FileStatus": 2,
-        "DownloadURL": "http://addons.curse.cursecdn.com/files/2233/906/MineFactoryReloaded-[1.7.10]2.8.0-104.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "assets",
-            "Fingerprint": 1290050639
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 2192961118
-          },
-          {
-            "Foldername": "meta-inf",
-            "Fingerprint": 431490343
-          },
-          {
-            "Foldername": "powercrystals",
-            "Fingerprint": 1248853864
-          },
-          {
-            "Foldername": "vers.prop",
-            "Fingerprint": 1043412208
-          }
-        ],
-        "PackageFingerprint": 31566919,
-        "GameVersion": [
-          "1.7.10"
-        ]
-      },
-      "dateInstalled": "2015-10-08T16:18:28.6908304Z",
-      "dateUpdated": "2015-10-08T16:18:28.6938306Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": true,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 32274,
-      "gameInstanceID": "ce774241-0f8b-4887-8be9-e5c03e86eb8c",
-      "installedFile": {
-        "Id": 2245168,
-        "FileName": "journeymap-1.7.10-5.1.0-unlimited.jar",
-        "FileNameOnDisk": "journeymap-1.7.10-5.1.0-unlimited.jar",
-        "FileDate": "2015-07-01T22:48:45",
-        "ReleaseType": 1,
-        "FileStatus": 2,
-        "DownloadURL": "http://addons.curse.cursecdn.com/files/2245/168/journeymap-1.7.10-5.1.0-unlimited.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "ar",
-            "Fingerprint": 3579885152
-          },
-          {
-            "Foldername": "assets",
-            "Fingerprint": 2571635898
-          },
-          {
-            "Foldername": "license.txt",
-            "Fingerprint": 2144237046
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 885420840
-          },
-          {
-            "Foldername": "meta-inf",
-            "Fingerprint": 978057955
-          },
-          {
-            "Foldername": "modinfo",
-            "Fingerprint": 478387965
-          },
-          {
-            "Foldername": "net",
-            "Fingerprint": 2086058450
-          },
-          {
-            "Foldername": "se",
-            "Fingerprint": 3693623929
-          }
-        ],
-        "PackageFingerprint": 2022525997,
-        "GameVersion": [
-          "1.7.10"
-        ]
-      },
-      "dateInstalled": "2015-10-08T16:21:12.0517282Z",
-      "dateUpdated": "2014-10-08T16:21:12.0517282Z",
+      "dateInstalled": "2015-10-09T07:10:10.8010674Z",
+      "dateUpdated": "2014-10-09T07:10:10.8010674Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -3972,7 +3842,7 @@
     },
     {
       "addonID": 61811,
-      "gameInstanceID": "ce774241-0f8b-4887-8be9-e5c03e86eb8c",
+      "gameInstanceID": "a97f1399-6083-489e-ac8b-9d12715ca784",
       "installedFile": {
         "Id": 2261306,
         "FileName": "Buildcraft 7.1.9",
@@ -4040,8 +3910,8 @@
           "1.7.10"
         ]
       },
-      "dateInstalled": "2015-10-08T16:21:12.1917284Z",
-      "dateUpdated": "2014-10-08T16:21:12.1917284Z",
+      "dateInstalled": "2015-10-09T07:10:10.8030675Z",
+      "dateUpdated": "2014-10-09T07:10:10.8030675Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -4053,105 +3923,46 @@
       "manifestName": null
     },
     {
-      "addonID": 233105,
-      "gameInstanceID": "ce774241-0f8b-4887-8be9-e5c03e86eb8c",
+      "addonID": 228625,
+      "gameInstanceID": "a97f1399-6083-489e-ac8b-9d12715ca784",
       "installedFile": {
-        "Id": 2261136,
-        "FileName": "mcjtylib-1.6.0.jar",
-        "FileNameOnDisk": "mcjtylib-1.6.0.jar",
-        "FileDate": "2015-10-05T18:45:43",
-        "ReleaseType": 1,
+        "Id": 2230425,
+        "FileName": "StevesCarts2.0.0.b18.jar",
+        "FileNameOnDisk": "StevesCarts2.0.0.b18.jar",
+        "FileDate": "2015-03-17T00:55:39",
+        "ReleaseType": 2,
         "FileStatus": 2,
-        "DownloadURL": "http://addons.curse.cursecdn.com/files/2261/136/mcjtylib-1.6.0.jar",
+        "DownloadURL": "http://addons.curse.cursecdn.com/files/2230/425/StevesCarts2.0.0.b18.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
         "Dependencies": [],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "mcjty",
-            "Fingerprint": 595139848
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 863568042
-          },
-          {
-            "Foldername": "meta-inf",
-            "Fingerprint": 2464251221
-          }
-        ],
-        "PackageFingerprint": 3996300682,
-        "GameVersion": [
-          "1.7.10"
-        ]
-      },
-      "dateInstalled": "2015-10-05T15:19:21.4674219Z",
-      "dateUpdated": "2015-10-08T16:33:13.4510407Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": true,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 224641,
-      "gameInstanceID": "ce774241-0f8b-4887-8be9-e5c03e86eb8c",
-      "installedFile": {
-        "Id": 2261142,
-        "FileName": "rftools-3.42.jar",
-        "FileNameOnDisk": "rftools-3.42.jar",
-        "FileDate": "2015-10-05T18:50:16",
-        "ReleaseType": 1,
-        "FileStatus": 2,
-        "DownloadURL": "http://addons.curse.cursecdn.com/files/2261/142/rftools-3.42.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [
-          {
-            "AddOnId": 233105,
-            "Type": 1
-          }
-        ],
         "IsAvailable": true,
         "Modules": [
           {
             "Foldername": "assets",
-            "Fingerprint": 2063661768
-          },
-          {
-            "Foldername": "mcjty",
-            "Fingerprint": 515534394
+            "Fingerprint": 3948985261
           },
           {
             "Foldername": "mcmod.info",
-            "Fingerprint": 2286000257
+            "Fingerprint": 2944812814
           },
           {
             "Foldername": "meta-inf",
             "Fingerprint": 2464251221
           },
           {
-            "Foldername": "nei_at.cfg",
-            "Fingerprint": 1559780743
-          },
-          {
-            "Foldername": "pack.mcmeta",
-            "Fingerprint": 1845875129
+            "Foldername": "vswe",
+            "Fingerprint": 3214659406
           }
         ],
-        "PackageFingerprint": 800814502,
+        "PackageFingerprint": 3374657576,
         "GameVersion": [
           "1.7.10"
         ]
       },
-      "dateInstalled": "2015-10-05T15:19:22.3354715Z",
-      "dateUpdated": "2015-10-08T16:33:16.9631858Z",
-      "status": 4,
+      "dateInstalled": "2015-10-09T07:10:10.8040675Z",
+      "dateUpdated": "2014-10-09T07:10:10.8040675Z",
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4162,34 +3973,232 @@
       "manifestName": null
     },
     {
-      "addonID": 221418,
-      "gameInstanceID": "ce774241-0f8b-4887-8be9-e5c03e86eb8c",
+      "addonID": 67504,
+      "gameInstanceID": "a97f1399-6083-489e-ac8b-9d12715ca784",
       "installedFile": {
-        "Id": 2212916,
-        "FileName": "PerfectSpawn-1.1.jar",
-        "FileNameOnDisk": "PerfectSpawn-1.1.jar",
-        "FileDate": "2014-08-28T11:10:10",
+        "Id": 2244605,
+        "FileName": "ComputerCraft 1.74",
+        "FileNameOnDisk": "ComputerCraft1.74.jar",
+        "FileDate": "2015-06-27T21:28:37",
         "ReleaseType": 1,
         "FileStatus": 2,
-        "DownloadURL": "http://addons.curse.cursecdn.com/files/2212/916/PerfectSpawn-1.1.jar",
+        "DownloadURL": "http://addons.curse.cursecdn.com/files/2244/605/ComputerCraft1.74.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
         "Dependencies": [],
         "IsAvailable": true,
-        "Modules": [],
-        "PackageFingerprint": 3541062723,
+        "Modules": [
+          {
+            "Foldername": "api",
+            "Fingerprint": 1751074326
+          },
+          {
+            "Foldername": "assets",
+            "Fingerprint": 235986513
+          },
+          {
+            "Foldername": "dan200",
+            "Fingerprint": 208038279
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 2209976500
+          },
+          {
+            "Foldername": "meta-inf",
+            "Fingerprint": 2464251221
+          },
+          {
+            "Foldername": "org",
+            "Fingerprint": 3161414049
+          },
+          {
+            "Foldername": "pack.mcmeta",
+            "Fingerprint": 2654988231
+          },
+          {
+            "Foldername": "pack.png",
+            "Fingerprint": 1242240904
+          }
+        ],
+        "PackageFingerprint": 2817005828,
         "GameVersion": [
-          "1.7.10",
-          "1.7.2"
+          "1.7.10"
         ]
       },
-      "dateInstalled": "2015-10-08T19:11:45.3962528Z",
-      "dateUpdated": "2015-10-08T19:11:45.3972529Z",
+      "dateInstalled": "2015-10-09T07:10:10.8040675Z",
+      "dateUpdated": "2014-10-09T07:10:10.8040675Z",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": true,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 66675,
+      "gameInstanceID": "a97f1399-6083-489e-ac8b-9d12715ca784",
+      "installedFile": {
+        "Id": 2233919,
+        "FileName": "NetherOres-[1.7.10]2.3.0-12.jar",
+        "FileNameOnDisk": "NetherOres-[1.7.10]2.3.0-12.jar",
+        "FileDate": "2015-04-12T07:18:05",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "http://addons.curse.cursecdn.com/files/2233/919/NetherOres-[1.7.10]2.3.0-12.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "assets",
+            "Fingerprint": 1437672473
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 1079894690
+          },
+          {
+            "Foldername": "meta-inf",
+            "Fingerprint": 3378896114
+          },
+          {
+            "Foldername": "powercrystals",
+            "Fingerprint": 138315671
+          },
+          {
+            "Foldername": "vers.prop",
+            "Fingerprint": 1308713284
+          }
+        ],
+        "PackageFingerprint": 2097835846,
+        "GameVersion": [
+          "1.7.10"
+        ]
+      },
+      "dateInstalled": "2015-10-09T07:10:10.8050676Z",
+      "dateUpdated": "2014-10-09T07:10:10.8050676Z",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": true,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 66672,
+      "gameInstanceID": "a97f1399-6083-489e-ac8b-9d12715ca784",
+      "installedFile": {
+        "Id": 2233906,
+        "FileName": "MineFactoryReloaded-[1.7.10]2.8.0-104.jar",
+        "FileNameOnDisk": "MineFactoryReloaded-[1.7.10]2.8.0-104.jar",
+        "FileDate": "2015-04-12T06:01:14",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "http://addons.curse.cursecdn.com/files/2233/906/MineFactoryReloaded-[1.7.10]2.8.0-104.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "assets",
+            "Fingerprint": 1290050639
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 2192961118
+          },
+          {
+            "Foldername": "meta-inf",
+            "Fingerprint": 431490343
+          },
+          {
+            "Foldername": "powercrystals",
+            "Fingerprint": 1248853864
+          },
+          {
+            "Foldername": "vers.prop",
+            "Fingerprint": 1043412208
+          }
+        ],
+        "PackageFingerprint": 31566919,
+        "GameVersion": [
+          "1.7.10"
+        ]
+      },
+      "dateInstalled": "2015-10-09T07:10:10.8060677Z",
+      "dateUpdated": "2014-10-09T07:10:10.8060677Z",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": true,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 73488,
+      "gameInstanceID": "a97f1399-6083-489e-ac8b-9d12715ca784",
+      "installedFile": {
+        "Id": 2230518,
+        "FileName": "Waila-1.5.10_1.7.10.jar",
+        "FileNameOnDisk": "Waila-1.5.10_1.7.10.jar",
+        "FileDate": "2015-03-18T15:22:30",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "http://addons.curse.cursecdn.com/files/2230/518/Waila-1.5.10_1.7.10.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "assets",
+            "Fingerprint": 3305696608
+          },
+          {
+            "Foldername": "au",
+            "Fingerprint": 2296393542
+          },
+          {
+            "Foldername": "license.txt",
+            "Fingerprint": 2985416683
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 3862331241
+          },
+          {
+            "Foldername": "mcp",
+            "Fingerprint": 1572435787
+          },
+          {
+            "Foldername": "meta-inf",
+            "Fingerprint": 2464251221
+          }
+        ],
+        "PackageFingerprint": 1414103353,
+        "GameVersion": [
+          "1.7.10"
+        ]
+      },
+      "dateInstalled": "2015-10-09T08:10:02.6725107Z",
+      "dateUpdated": "2015-10-09T08:10:02.6735107Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
