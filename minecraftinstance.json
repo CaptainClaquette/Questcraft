@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2015-10-09T17:41:10.9380099Z",
+  "lastPlayed": "2015-10-10T07:45:32.219439Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -31,19 +31,6 @@
   "installPath": "C:\\Users\\CaptainClaquette\\Documents\\Curse\\Minecraft\\Instances\\Questcraft\\",
   "name": "Questcraft",
   "cachedScans": [
-    {
-      "folderName": "Invictus.zip",
-      "fingerprint": 0,
-      "fileDateHash": 2020037368,
-      "sectionID": 12,
-      "individualFingerprints": null,
-      "status": 5,
-      "timestamp": "2015-10-09T14:59:59.8998582Z",
-      "lastWriteTimeUtc": "2015-10-09T14:59:59.8818571Z",
-      "queryTimestamp": "0001-01-01T00:00:00",
-      "fileCount": 1,
-      "fileSize": 288498427
-    },
     {
       "folderName": "OpenPeripheralIntegration-1.7.10-0.3.jar",
       "fingerprint": 1199482742,
@@ -58,6 +45,19 @@
       "queryTimestamp": "2015-10-08T16:21:10.3317258Z",
       "fileCount": 1,
       "fileSize": 250607
+    },
+    {
+      "folderName": "Invictus.zip",
+      "fingerprint": 0,
+      "fileDateHash": 2020037368,
+      "sectionID": 12,
+      "individualFingerprints": null,
+      "status": 5,
+      "timestamp": "2015-10-09T14:59:59.8998582Z",
+      "lastWriteTimeUtc": "2015-10-09T14:59:59.8818571Z",
+      "queryTimestamp": "0001-01-01T00:00:00",
+      "fileCount": 1,
+      "fileSize": 288498427
     },
     {
       "folderName": "Waila-1.5.10_1.7.10.jar",
