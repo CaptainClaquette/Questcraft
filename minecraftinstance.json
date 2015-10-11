@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2015-10-10T07:45:32.219439Z",
+  "lastPlayed": "2015-10-10T12:46:58.148895Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -4557,6 +4557,52 @@
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
       "isModified": true,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 69118,
+      "gameInstanceID": "ce774241-0f8b-4887-8be9-e5c03e86eb8c",
+      "installedFile": {
+        "Id": 2251029,
+        "FileName": "Morpheus-1.7.10-1.6.10.jar",
+        "FileNameOnDisk": "Morpheus-1.7.10-1.6.10.jar",
+        "FileDate": "2015-08-06T12:34:06",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "http://addons.curse.cursecdn.com/files/2251/29/Morpheus-1.7.10-1.6.10.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 2279872602
+          },
+          {
+            "Foldername": "meta-inf",
+            "Fingerprint": 2464251221
+          },
+          {
+            "Foldername": "net",
+            "Fingerprint": 535399513
+          }
+        ],
+        "PackageFingerprint": 2007885531,
+        "GameVersion": [
+          "1.7.10"
+        ]
+      },
+      "dateInstalled": "2015-10-10T12:37:49.9225383Z",
+      "dateUpdated": "2015-10-10T12:37:49.9265385Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
